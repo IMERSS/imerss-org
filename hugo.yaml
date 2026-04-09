@@ -1,8 +1,11 @@
 # Configuration
 baseURL: "https://imerss.org/"
 title: IMERSS
+author: 
+  name: "Joanne Whitehead"
+  email: "joannew@gmx.com"
 
-theme: ["hextra", "hugo-cite"]
+theme: "hextra"
 
 contentDir: content
 
