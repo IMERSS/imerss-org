@@ -11,6 +11,21 @@ date: 2026-03-16
 </div>
 
 
+### Detecting extirpation: A localized approach to a global problem
+
+The global biodiversity crisis stems from a cascading series of extirpations driving species toward extinction. Addressing this crisis requires methods for early detection of extinction at local scales, where communities can mobilize conservation efforts. We present a method for the detection of species extirpation, harnessing biological specimens, community science, and targeted surveys. Our framework aligns with the International Union for the Conservation of Nature (IUCN) extinction criteria and provides a practical means of testing the hypothesis of extinction. By streamlining the integration of data into a practical framework for inference, our approach overcomes key challenges in inferring local extinction risk, supporting efforts to detect and mitigate biodiversity loss.
+
+{{< cards >}}
+   {{< card link="https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.70130" 
+      title="Read the Article" 
+      subtitle="Published in *People Plants Planet* in 2025" 
+      image="images/undetected-plant-species.jpg">}} 
+    {{< card link="https://imerss.github.io/detecting-local-extinction/docs/" 
+      title="Data Analysis Tutorial" 
+      subtitle="Find our species extirpation analysis protocol on GitHub" 
+      image="images/GPS_traces.jpg">}} 
+{{< /cards >}}
+
 
 ### [Evidence of bumble bee extirpation and colonization: Galiano Island, British Columbia, Canada](https://www.researchgate.net/publication/377195063_Evidence_of_Bumble_Bee_Extirpation_and_Colonization_Galiano_Island_British_Columbia_Canada)
 ![B.vosnesenskii](images/Bombus_vosnesenskii.png#floatleft)

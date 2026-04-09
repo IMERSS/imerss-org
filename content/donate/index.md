@@ -18,9 +18,3 @@ Donate here and a Canadian charitable tax receipt will be issued directly. Pleas
 
 <div style="position:relative;overflow:hidden;height:450px;width:100%;"><iframe title='Donation form powered by Zeffy' style='position: absolute; border: 0; top:0;left:0;bottom:0;right:0;width:100%;height:100%' src='https://www.zeffy.com/embed/donation-form/imerss-donation' allowpaymentrequest allowTransparency="true"></iframe></div>
 
-
-![Paypal logo](images/PayPal.png#floatleft)
-If you prefer to use Paypal to donate, do so here, and we will issue a tax receipt at the end of the year. 
-
-<div style="clear: both;"></div>
-
