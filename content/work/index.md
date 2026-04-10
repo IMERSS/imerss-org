@@ -17,7 +17,7 @@ date: 2026-03-02
   {{< card link="#ecocultural-mapping" 
     title="Eco-cultural Mapping" 
     subtitle="" 
-    image="images/Xetthecum_1.4.jpg">}}
+    image="images/cave_1.4.jpg">}}
   {{< card link="#community-research" 
     title="Long-term Community Ecological Research" 
     subtitle="" 
@@ -41,6 +41,10 @@ We can enrich our understanding of the Salish Sea bioregion by weaving Indigenou
     title="Xetthecum Ecocultural Mapping Pilot" 
     subtitle="Weaving biodiversity data, Indigenous language, and place-based knowledge into an eco-cultural mapping framework." 
     image="/projects/images/Xetthecum_1.4.jpg">}} 
+   {{< card link="https://imerss.github.io/xetthecum-storymap/" 
+    title="Xetthecum Storymap" 
+    subtitle="Explore the species and communities of Xetthecum, and the cultural values that weave them all together." 
+    image="images/clam_1.4.jpg">}} 
 {{< /cards >}}
 
 

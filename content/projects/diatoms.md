@@ -1,7 +1,9 @@
 ---
-title: Diatoms of the Salish Sea
+title: "Diatoms of the Salish Sea"
 date: '2026-03-03'
 ---
+
+# Diatoms of the Salish Sea
 
 ![diatom SEM](images/SHW-Stub-13-TM4000.jpg#floatright) 
 

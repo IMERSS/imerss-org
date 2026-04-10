@@ -3,6 +3,8 @@ title: Janszen Legacy Project
 date: '2026-03-05'
 ---
 
+# Janszen Legacy Project
+
 ![orchid search](images/Hannah_Harvey_orchid_search_3.JPG#floatright)
 
 Harvey Janszen (July 11, 1946–May 10, 2021) was an accomplished amateur botanist and naturalist endeared to many in British Columbia’s natural history community. During his career, Harvey collected over 3,000 vascular plant specimens, mostly from the southern Gulf Islands of British Columbia, and curated comprehensive species checklists documenting the flora of the southern Gulf Islands, Saanich Peninsula, San Juan Islands, and various other localities throughout the Salish Sea.

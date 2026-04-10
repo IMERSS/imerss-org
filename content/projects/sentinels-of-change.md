@@ -3,6 +3,7 @@ title: "Sentinels of Change"
 date: '2026-03-02'
 ---
 
+# Sentinels of Change
 
 ![Brenna light trap](/projects/images/Brenna-light-trap.jpg#floatright)
 

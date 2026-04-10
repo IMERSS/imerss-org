@@ -591,3 +591,10 @@ html.dark .hx-dropdown-item--active {
 .hamburger-menu {
     display: flex;
 }
+
+
+/* add space around a youtube video */
+.youtube-block {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}

@@ -3,6 +3,8 @@ title: Microclimate Monitoring
 date: '2026-03-05'
 ---
 
+# Microclimate Monitoring
+
 ![Galiano](images/Galiano_Wx.JPG#floatright)
 
 This program engages citizens and scientists alike in an ongoing effort to monitor microclimate in the southern Gulf Islands. Through this study we aim to develop a better understanding of local scale controls on microclimate, including topographic, latitudinal and oceanic effects. These data can help land managers and ecologists better anticipate the differential outcomes that climate change may have for both human and ecological communities across this coastal landscape.
