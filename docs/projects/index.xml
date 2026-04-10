@@ -23,7 +23,7 @@
       <description>
         
         
-        &lt;p&gt;
+        &lt;h1&gt;Biodiversity Galiano Island&lt;/h1&gt;&lt;p&gt;
     &lt;img src=&#34;../images/Citizen_scientists_1.4.png#floatright&#34; alt=&#34;Galiano&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Biodiversity lives in places! This ongoing initiative has engaged hundreds of individuals across a broad cross-section of society in a coordinated effort to document the flora and fauna of Galiano Island, BC. To date, our community has documented &lt;a href=&#34;https://biogaliano.org/stats/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;over 3,500 species&lt;/a&gt;, combining historical records with contemporary observations yielded through the citizen science platform iNaturalist. In collaboration with dozens of research scientists, we are currently formalizing this project in a series of &lt;a href=&#34;https://biogaliano.org/toward-a-flora-and-fauna/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;biodiversity data papers&lt;/a&gt;, establishing a baseline record to guide future ecological research and monitoring. To further extend the reach of these efforts, our &lt;a href=&#34;https://imerss.org/2020/09/20/biodiversity-informatics-working-group/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;biodiversity informatics working group&lt;/a&gt; is building on Bio Galiano as a model framework to advance novel open-source information systems intended to increase community capacity for biodiversity research throughout the Salish Sea.&lt;/p&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project initiated January 2016&lt;/p&gt;
@@ -40,7 +40,7 @@
       <description>
         
         
-        &lt;p&gt;
+        &lt;h1&gt;Biodiversity Informatics Working Group&lt;/h1&gt;&lt;p&gt;
     &lt;img src=&#34;../images/Bio_informatics.jpg#floatright&#34; alt=&#34;bioinfo diagram&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;IMERSS’ biodiversity informatics program is a collaboration among computer scientists and ecologists working to advance open-source technologies that support a community-based approach to biodiversity research and monitoring. Through our diverse projects, we are bootstrapping development of a biodiversity informatics framework, to support our vision of creating a bioregional atlas for the Salish Sea.&lt;/p&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated January 2019&lt;/p&gt;
@@ -63,7 +63,7 @@
       <description>
         
         
-        &lt;p&gt;
+        &lt;h1&gt;Eelgrass Community Ecology&lt;/h1&gt;&lt;p&gt;
     &lt;img src=&#34;../images/eelgrass_diatoms_9.jpg#floatright&#34; alt=&#34;eelgrass_diatoms&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Eelgrass (&lt;em&gt;Zostera marina&lt;/em&gt;) meadows are home to a great diversity of species, including fish, crabs, algae, and microorganisms. Eelgrass ecosystems contribute to many important coastal processes that humans rely on, such as carbon storage and coastal protection. Although eelgrass is well studied worldwide, there is little research that investigates the epiphytic microbes on leaf surfaces. Using scanning electron microscopy, we are mapping the surface of eelgrass leaves to visualize the spatial patterns and potential interactions of bacteria, fungi, and diatoms along the surface of the leaf. Additionally, we are cataloging bacterial, fungal, and diatom community diversity on eelgrass leaves, and looking at how diversity changes over time.&lt;/p&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated September 2020&lt;/p&gt;
@@ -84,7 +84,7 @@
       <description>
         
         
-        &lt;p&gt;
+        &lt;h1&gt;Janszen Legacy Project&lt;/h1&gt;&lt;p&gt;
     &lt;img src=&#34;../images/Hannah_Harvey_orchid_search_3.JPG#floatright&#34; alt=&#34;orchid search&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Harvey Janszen (July 11, 1946–May 10, 2021) was an accomplished amateur botanist and naturalist endeared to many in British Columbia’s natural history community. During his career, Harvey collected over 3,000 vascular plant specimens, mostly from the southern Gulf Islands of British Columbia, and curated comprehensive species checklists documenting the flora of the southern Gulf Islands, Saanich Peninsula, San Juan Islands, and various other localities throughout the Salish Sea.&lt;/p&gt;
 &lt;p&gt;Harvey’s dataset establishes a critical baseline record of the regional flora: a vital resource for understanding future ecological change in these communities. Through this initiative, we are carrying on Harvey’s legacy by curating comprehensive species lists for the region, and digitizing herbarium voucher specimens and field notes, to share widely as an open source data resource. Track our progress through this &lt;a href=&#34;https://imerss.github.io/janszen-legacy-storymap/Janszen_Legacy_Project-Reknitted.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;interactive story map&lt;/a&gt;.&lt;/p&gt;
@@ -108,7 +108,7 @@
         
         
         &lt;p&gt;-&lt;/p&gt;
-&lt;p&gt;
+&lt;h1&gt;Maritime Lichens of the Salish Sea&lt;/h1&gt;&lt;p&gt;
     &lt;img src=&#34;../images/Polycauliona-bolacina.png#floatright&#34; alt=&#34;Polycauliona-bolacina&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Lichens are able to colonize bare rock communities and live in harsh, nutrient-poor environments on account of their ability to photosynthesize and absorb ambient nutrients from the atmosphere, incident waters and their substrate. In shoreline environments, these lichens form habitat and fodder for a variety of invertebrates and plants at a scale that is easily overlooked. Because of various stresses such as sun and saltwater exposure, these lichens form communities in unique microenvironments along the coast. Such patterns are understudied in the eastern Pacific. The coastal rock exposures of the Salish Sea provide an excellent living lab for understanding patterns of maritime lichen diversity. This study aims to document the maritime species richness and distribution across the shales, sandstones, conglomerates, gneisses, basalts, gabbros, granitoids, limestones and marbles along the coastlines from Cortes Island to the Southern Gulf Islands. Results will be compared amongst localities within the Salish Sea to determine if and how community composition is governed by substrate chemistry and texture. This study also aims to provide a basis for further comparison to patterns of maritime lichen distribution elsewhere around the world.&lt;/p&gt;
 &lt;h1&gt;Partners&lt;/h1&gt;&lt;p&gt;Randal Mindel, Andrew Simon | IMERSS&lt;/p&gt;
@@ -126,7 +126,7 @@
       <description>
         
         
-        &lt;p&gt;
+        &lt;h1&gt;Microclimate Monitoring&lt;/h1&gt;&lt;p&gt;
     &lt;img src=&#34;../images/Galiano_Wx.JPG#floatright&#34; alt=&#34;Galiano&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;This program engages citizens and scientists alike in an ongoing effort to monitor microclimate in the southern Gulf Islands. Through this study we aim to develop a better understanding of local scale controls on microclimate, including topographic, latitudinal and oceanic effects. These data can help land managers and ecologists better anticipate the differential outcomes that climate change may have for both human and ecological communities across this coastal landscape.&lt;/p&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project initiated February 2018&lt;/p&gt;
@@ -151,7 +151,7 @@
       <description>
         
         
-        &lt;p&gt;
+        &lt;h1&gt;Microscopic Explorations&lt;/h1&gt;&lt;p&gt;
     &lt;img src=&#34;../images/Austin_SEM_2.jpg#floatright&#34; alt=&#34;microscope session&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;A science outreach program connecting communities with the wonders of natural history, as revealed through the magic of microscopy—including a desktop Scanning Electron Microscope! In this interactive series, we bring Dr. Elaine Humphrey together with various experts to explore topics in natural history, guided by our participants’ questions and observations, and the insights of our experts.&lt;/p&gt;
 &lt;p&gt;Contact Dr. Elaine Humphrey at &lt;a href=&#34;mailto:ech@uvic.ca&#34; &gt;ech@uvic.ca&lt;/a&gt; to bring the traveling microscopic lab to your community!&lt;/p&gt;
@@ -171,7 +171,7 @@
       <description>
         
         
-        &lt;p&gt;
+        &lt;h1&gt;Operation GaliWatch&lt;/h1&gt;&lt;p&gt;
     &lt;img src=&#34;../images/Gali-Watch.jpg#floatright&#34; alt=&#34;Gali-Watch&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Wild pollinators are an integral part of native plant communities and are highly effective at pollinating flowers in natural ecosystems. The &lt;a href=&#34;https://galiwatch.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GaliWatch project&lt;/a&gt; is dedicated to developing low-cost data collection and analysis systems for long-term pollinator surveillance and hyperlocal weather and climate monitoring. Within natural ecosystems, the diversity and abundance of wild bees and other pollinators provides redundancy that ensures ongoing pollination and plant productivity despite a changing environment. Changing environmental conditions caused by weather, climate change, or human interventions, may disrupt pollinator activity for some species but enhance it for others. To monitor these phenomena, we have established a low-cost set-up of cameras to monitor floral visitations by pollinators, and data-loggers to monitor local environmental conditions. Our cameras will capture approximately 0.5 million images (2 terabytes of data!) over a six-month study period. To process this dataset, we are currently training and running a convolutional neural network. Once successful, we will spread the word on how you can make your own pollinator and climate monitoring setup.&lt;/p&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated January 2021&lt;/p&gt;
@@ -188,9 +188,13 @@
       <description>
         
         
-        &lt;p&gt;
-    &lt;img src=&#34;../images/Xetthecum.jpg#floatright&#34; alt=&#34;Xetthecum&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;The &lt;em&gt;Xetthecum&lt;/em&gt; pilot project is an initiative to weave together Indigenous ways of knowing and Western ecological science into an ecocultural map of Retreat Cove (Xetthecum in the Hul’qumi’num language), Galiano Island, BC. Created in partnership with Indigenous and non-Indigenous collaborators, this participatory mapping program, developed in a Geographic Information System (GIS) framework, is using online data visualizations to communicate historical and contemporary biodiversity data, terrestrial ecosystem mapping, written and spoken Hul’qumi’num, and stories of place. By engaging a multigenerational and cross-cultural community in documenting Xetthecum’s sensitive ecosystems and cultural keystone species, we aim to foster a holistic approach to shle’muxun—meaning “guardian of the land,” or “stewardship,” in Hul’qumi’num. Beyond this pilot project, we aspire to adapt these practices in partnership with &lt;a href=&#34;https://www.whiteswanenvironmental.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Whiteswan Environmental&lt;/a&gt; to create ecocultural maps of significant sites throughout the Salish Sea.&lt;/p&gt;
+        &lt;h1&gt;&lt;em&gt;Xetthecum&lt;/em&gt; Ecocultural Mapping Pilot&lt;/h1&gt;&lt;p&gt;The &lt;em&gt;Xetthecum&lt;/em&gt; pilot project is an initiative to weave together Indigenous ways of knowing and Western ecological science into an ecocultural map of Retreat Cove (Xetthecum in the Hul’qumi’num language), Galiano Island, BC. Created in partnership with Indigenous and non-Indigenous collaborators, this participatory mapping program, developed in a Geographic Information System (GIS) framework, is using online data visualizations to communicate historical and contemporary biodiversity data, terrestrial ecosystem mapping, written and spoken Hul’qumi’num, and stories of place. By engaging a multigenerational and cross-cultural community in documenting Xetthecum’s sensitive ecosystems and cultural keystone species, we aim to foster a holistic approach to shle’muxun—meaning “guardian of the land,” or “stewardship,” in Hul’qumi’num. Beyond this pilot project, we aspire to adapt these practices in partnership with &lt;a href=&#34;https://www.whiteswanenvironmental.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Whiteswan Environmental&lt;/a&gt; to create ecocultural maps of significant sites throughout the Salish Sea.&lt;/p&gt;
+&lt;div class=&#34;youtube-block&#34;&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/0v84S7DeORU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;/div&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated October 2020&lt;/p&gt;
 &lt;p&gt;Current status: Ongoing&lt;/p&gt;
 &lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;Jeannine Georgeson, Antranig Basman, Andrew Simon | IMERSS&lt;/p&gt;
@@ -210,7 +214,7 @@
       <description>
         
         
-        &lt;p&gt;&lt;img src=&#34;../projects/images/Hannah_Harvey_orchid_search_3.JPG#floatright&#34; alt=&#34;orchid search&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+        &lt;h1&gt;20/20 Vision on Plant Extirpation&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;../projects/images/Hannah_Harvey_orchid_search_3.JPG#floatright&#34; alt=&#34;orchid search&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;This project aims to establish a novel protocol for the detection of species extirpation, drawing on historical baseline data and contemporary citizen science observations recorded on the Biodiversity Galiano project using iNaturalist. After five years of extensive community-based search efforts, we have identified 14 vascular plant species that are at risk of extirpation from Galiano Island. Through targeted search efforts covering historical collection sites and suitable habitat, this project will test the potential for citizen science to detect ecological changes and inform conservation strategies with reference to historical baseline information.&lt;/p&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated January 2020&lt;/p&gt;
 &lt;p&gt;Current status: Ongoing&lt;/p&gt;
@@ -230,7 +234,7 @@
       <description>
         
         
-        &lt;p&gt;
+        &lt;h1&gt;Diatoms of the Salish Sea&lt;/h1&gt;&lt;p&gt;
     &lt;img src=&#34;../images/SHW-Stub-13-TM4000.jpg#floatright&#34; alt=&#34;diatom SEM&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Diatoms are a major group of photosynthetic micro-algae living in marine and freshwater environments, which provide vast quantities of oxygen, food and nutrients for a wide range of organisms. The last regional diatom inventories were undertaken by Cupp (1943) for the West Coast of North America and Shim (1976) for the Georgia Strait, to the exclusion of many benthic and epiphytic species. This project aims to establish an updated taxonomic inventory of diatoms known to the Salish Sea, including detailed descriptions, discussions, observations and references. We apply light microscopy and Scanning Electron Microscopy (SEM) to determine species based on key taxonomic features. To extend this work, we are also exploring the application of third-generation molecular sequencing technology to barcode diatoms and promote community access to genomics research.&lt;/p&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated September 2012&lt;/p&gt;
@@ -252,7 +256,7 @@
       <description>
         
         
-        &lt;p&gt;&lt;img src=&#34;../projects/images/Brenna-light-trap.jpg#floatright&#34; alt=&#34;Brenna light trap&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+        &lt;h1&gt;Sentinels of Change&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;../projects/images/Brenna-light-trap.jpg#floatright&#34; alt=&#34;Brenna light trap&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;IMERSS is one of several Salish Sea partners for the Hakai Institute led Sentinels of Change Dungeness crab larvae light trap. It is a decade-long study focusing on understanding the population fluctuations of the Dungeness crab larvae to their adult stages. By improving our knowledge, it can help provide information to managers and decision makers to help sustain healthy ecosystems and communities. &lt;a href=&#34;Sentinels.hakai.org&#34; &gt;Learn more about the project and other project partners&lt;/a&gt;.&lt;/p&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated 2021&lt;/p&gt;
 &lt;p&gt;Current status: Ongoing&lt;/p&gt;
