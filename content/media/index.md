@@ -6,7 +6,7 @@ date: 2026-03-16
 <div class="hero-image">
   <img src="images/Zostera_marina_crop.jpg" alt="Zostera marina">
   <div class="hero-title">
-    Media
+    In the Media
   </div>
 </div>
 
@@ -26,3 +26,12 @@ A Hakai Magazine article by Marina Wang featuring the [Biodiversity Galiano](htt
 
 “Naming leads to knowing, which leads to understanding. Residents of a small British Columbia island take to the forests and beaches to connect with their nonhuman neighbors.”
 
+<div style="clear: both;"></div>
+
+
+### Ecocultural Mapping in the Salish Sea
+Watch a short video about our *Xetthecum* ecocultural mapping project.
+
+<div class="youtube-block">
+{{< youtube 0v84S7DeORU >}}
+</div>

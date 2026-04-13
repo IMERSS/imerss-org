@@ -139,3 +139,17 @@ Since the beginning, Ruth’s research has focussed on ecology and the interacti
 Currently, Ruth is leading a study in the Gulf Islands on climate change, fire and the ecology of our Coastal Douglas-fir ecosystems. She helped incorporate climate adaptation into the Salt Spring Island Climate Action Plan, and is a Director with Transition Salt Spring. Ruth loves talking with others about our shared home. She is passionate about what we can do when we work together. So, don’t hesitate to speak with her. Ruth is committed to reconciliation and protecting natural systems, and is grateful to live and learn in the unceded territories of the Hul’qumi’num and SENĆOŦEN speaking peoples, including the Quw’utsun and Tsawout First Nations.
 
 <div style="clear: both;"></div>
+
+### Meghan Wise
+#### Director
+![Meghan Wise](images/MWise.png#floatleft)
+
+Meghan (she/her) is a climate communicator, workshop facilitator, senior policy analyst and visual artist dedicated to fostering climate resilience through decolonial, care-based, and creative frameworks. With a Masters in Political Science, Meghan’s work explores the intersections of ideology, ecolinguistics and the health and well-being dimensions of climate change. Her research explores how framing and language shape public perceptions of climate-related issues and the importance of care-based and trauma-informed frameworks amid environmental uncertainty and disruption.
+
+As a policy analyst and an artist, Meghan weaves together research-driven insights with lived experience, storytelling and visual expression to cultivate spaces where people can imagine and enact more just and sustainable systems and futures. Her practice invites curiosity, empathy and messy hope as tools of connection and transformation.
+
+An endless source of inspiration and curiosity for Meghan are the micro to macro nuances of the universe. Much of Meghan’s creative energy comes from time spent wandering in forests and swamps identifying bugs, birds, plants or mushrooms, and observing the intricate relationships that sustain interconnected ecosystems and communities.
+
+<div style="clear: both;"></div>
+
+
