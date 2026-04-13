@@ -592,6 +592,34 @@ html.dark .hx-dropdown-item--active {
     display: flex;
 }
 
+/* make mobile hamburger menu work */
+.hextra-navbar-menu-toggle,
+.navbar-toggler {
+  display: flex !important;
+  z-index: 1050;
+}
+
+.hextra-sidebar-collapsible-button svg {
+  overflow: visible;
+}
+
+/* hide not-working hamburger menu on desktop */
+@media (min-width: 1025px) {
+  .hextra-navbar-menu-toggle,
+  .hamburger-menu,
+  .navbar-toggler {
+    display: none !important;
+  }
+}
+
+@media (max-width: 1024px) {
+  .hextra-navbar-menu-toggle,
+  .hamburger-menu {
+    display: flex !important;
+    z-index: 1050;
+  }
+}
+
 
 /* add space around a youtube video */
 .youtube-block {

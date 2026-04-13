@@ -91,7 +91,6 @@ menu:
       weight: 4
     - identifier: donate
       name: Donate
-      #url: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EHJFF84LNXFES
       pageRef: /donate
       weight: 5
     - name: Search
