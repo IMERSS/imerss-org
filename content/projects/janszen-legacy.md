@@ -9,7 +9,7 @@ date: '2026-03-05'
 
 Harvey Janszen (July 11, 1946–May 10, 2021) was an accomplished amateur botanist and naturalist endeared to many in British Columbia’s natural history community. During his career, Harvey collected over 3,000 vascular plant specimens, mostly from the southern Gulf Islands of British Columbia, and curated comprehensive species checklists documenting the flora of the southern Gulf Islands, Saanich Peninsula, San Juan Islands, and various other localities throughout the Salish Sea.
 
-Harvey’s dataset establishes a critical baseline record of the regional flora: a vital resource for understanding future ecological change in these communities. Through this initiative, we are carrying on Harvey’s legacy by curating comprehensive species lists for the region, and digitizing herbarium voucher specimens and field notes, to share widely as an open source data resource. Track our progress through this [interactive story map](https://imerss.github.io/janszen-legacy-storymap/Janszen_Legacy_Project-Reknitted.html).
+Harvey’s dataset establishes a critical baseline record of the regional flora: a vital resource for understanding future ecological change in these communities. Through this initiative, we are carrying on Harvey’s legacy by curating comprehensive species lists for the region, and digitizing herbarium voucher specimens and field notes, to share widely as an open source data resource. 
 
 # Status
 

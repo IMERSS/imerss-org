@@ -49,7 +49,7 @@ We can enrich our understanding of the Salish Sea bioregion by weaving Indigenou
 
 
 ## Long-term Community Ecological Research {#community-research}
-Communities have important roles to play in monitoring biodiversity in local places over the long term. This is the underpinning of long-term ecological research, and the inspiration behind the project Biogaliano, the seed from which IMERSS was formed. From [Sentinels of Change](https://sentinels.hakai.org/) dungeness crab monitoring, to our eelgrass and diatom community research, to marine lichens and local climate monitoring, we are fostering community-based efforts to better understand change in this bioregion. To connect communities involved in this work of long-term ecological research, we are partenered with the [Hakai Insitute](https://hakai.org/) on the creation of a transboundary bioregional resource, the [Community Atlas for the Salish Sea](https://salishsea.wwu.edu/islands-salish-sea-online-community-atlas).
+Communities have important roles to play in monitoring biodiversity in local places over the long term. This is the underpinning of long-term ecological research, and the inspiration behind the project Biogaliano, the seed from which IMERSS was formed. From [Sentinels of Change](https://sentinels.hakai.org/) dungeness crab monitoring, to our eelgrass and diatom community research, to marine lichens and local climate monitoring, we are fostering community-based efforts to better understand change in this bioregion. 
 
 {{< cards >}}
     {{< card link="/projects/sentinels-of-change" 
