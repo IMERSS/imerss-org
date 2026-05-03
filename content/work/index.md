@@ -110,11 +110,11 @@ IMERSS strives to foster opportunities for learning within and across communitie
     title="Microscopic Explorations" 
     subtitle="A science outreach program connecting communities with the wonders of natural history, as seen through the lens of microscopy." 
     image="/projects/images/Austin_SEM_2_1.4.jpg">}}
-  {{< card link="/projects/internships" 
+  {{< card link="" 
     title="Internships" 
     subtitle="Creating opportunities for early-career scientists to make valuable research contributions." 
     image="/projects/images/web-of-life-1.4.png">}}
-   {{< card link="/projects/artists" 
+   {{< card link="" 
     title="Artistic Collaborations" 
     subtitle="Bringing together scientists, musicians and artists for new perspectives on this land we call home." 
     image="/projects/images/music_1.4.jpg">}}

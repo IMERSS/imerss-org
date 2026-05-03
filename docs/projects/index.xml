@@ -1,270 +1,107 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>IMERSS – Projects</title>
-    <link>https://imerss.org/projects/</link>
-    <description>Recent content in Projects on IMERSS</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0000</lastBuildDate>
-    
-      <atom:link href="https://imerss.org/projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-    <item>
-      <title>Biodiversity Galiano Island</title>
-      <link>https://imerss.org/projects/biodiversity-galiano/</link>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://imerss.org/projects/biodiversity-galiano/</guid>
-      <description>
-        
-        
-        &lt;h1&gt;Biodiversity Galiano Island&lt;/h1&gt;&lt;p&gt;
-    &lt;img src=&#34;../images/Citizen_scientists_1.4.png#floatright&#34; alt=&#34;Galiano&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Biodiversity lives in places! This ongoing initiative has engaged hundreds of individuals across a broad cross-section of society in a coordinated effort to document the flora and fauna of Galiano Island, BC. To date, our community has documented &lt;a href=&#34;https://biogaliano.org/stats/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;over 3,500 species&lt;/a&gt;, combining historical records with contemporary observations yielded through the citizen science platform iNaturalist. In collaboration with dozens of research scientists, we are currently formalizing this project in a series of &lt;a href=&#34;https://biogaliano.org/toward-a-flora-and-fauna/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;biodiversity data papers&lt;/a&gt;, establishing a baseline record to guide future ecological research and monitoring. To further extend the reach of these efforts, our &lt;a href=&#34;https://imerss.org/2020/09/20/biodiversity-informatics-working-group/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;biodiversity informatics working group&lt;/a&gt; is building on Bio Galiano as a model framework to advance novel open-source information systems intended to increase community capacity for biodiversity research throughout the Salish Sea.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>IMERSS – Projects</title><link>https://imerss.org/projects/</link><description>Recent content in Projects on IMERSS</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://imerss.org/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Biodiversity Galiano Island</title><link>https://imerss.org/projects/biodiversity-galiano/</link><pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate><guid>https://imerss.org/projects/biodiversity-galiano/</guid><description>
+&lt;h1&gt;Biodiversity Galiano Island&lt;/h1&gt;&lt;p&gt;
+&lt;img src="../images/Citizen_scientists_1.4.png#floatright" alt="Galiano" loading="lazy" /&gt;&lt;/p&gt;
+&lt;p&gt;Biodiversity lives in places! This ongoing initiative has engaged hundreds of individuals across a broad cross-section of society in a coordinated effort to document the flora and fauna of Galiano Island, BC. To date, our community has documented &lt;a href="https://biogaliano.org/stats/" target="_blank" rel="noopener"&gt;over 3,500 species&lt;/a&gt;, combining historical records with contemporary observations yielded through the citizen science platform iNaturalist. In collaboration with dozens of research scientists, we are currently formalizing this project in a series of &lt;a href="https://biogaliano.org/toward-a-flora-and-fauna/" target="_blank" rel="noopener"&gt;biodiversity data papers&lt;/a&gt;, establishing a baseline record to guide future ecological research and monitoring. To further extend the reach of these efforts, our &lt;a href="https://imerss.org/2020/09/20/biodiversity-informatics-working-group/" target="_blank" rel="noopener"&gt;biodiversity informatics working group&lt;/a&gt; is building on Bio Galiano as a model framework to advance novel open-source information systems intended to increase community capacity for biodiversity research throughout the Salish Sea.&lt;/p&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project initiated January 2016&lt;/p&gt;
-&lt;p&gt;Current status: Ongoing&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Biodiversity Informatics Working Group</title>
-      <link>https://imerss.org/projects/biodiversity-informatics/</link>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://imerss.org/projects/biodiversity-informatics/</guid>
-      <description>
-        
-        
-        &lt;h1&gt;Biodiversity Informatics Working Group&lt;/h1&gt;&lt;p&gt;
-    &lt;img src=&#34;../images/Bio_informatics.jpg#floatright&#34; alt=&#34;bioinfo diagram&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Current status: Ongoing&lt;/p&gt;</description></item><item><title>Biodiversity Informatics Working Group</title><link>https://imerss.org/projects/biodiversity-informatics/</link><pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate><guid>https://imerss.org/projects/biodiversity-informatics/</guid><description>
+&lt;h1&gt;Biodiversity Informatics Working Group&lt;/h1&gt;&lt;p&gt;
+&lt;img src="../images/Bio_informatics.jpg#floatright" alt="bioinfo diagram" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;IMERSS’ biodiversity informatics program is a collaboration among computer scientists and ecologists working to advance open-source technologies that support a community-based approach to biodiversity research and monitoring. Through our diverse projects, we are bootstrapping development of a biodiversity informatics framework, to support our vision of creating a bioregional atlas for the Salish Sea.&lt;/p&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated January 2019&lt;/p&gt;
 &lt;p&gt;Current status: Ongoing&lt;/p&gt;
 &lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;Antranig Basman, Andrew Simon | IMERSS&lt;/p&gt;
-&lt;p&gt;Colin Clark | &lt;a href=&#34;https://idrc.ocadu.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Inclusive Design Research Centre&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Charlie Gibbs, Donna Gibbs | &lt;a href=&#34;https://biogaliano.org/pacific-marine-life-survey-team/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pacific Marine Life Surveys&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Colin Clark | &lt;a href="https://idrc.ocadu.ca/" target="_blank" rel="noopener"&gt;Inclusive Design Research Centre&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Charlie Gibbs, Donna Gibbs | &lt;a href="https://biogaliano.org/pacific-marine-life-survey-team/" target="_blank" rel="noopener"&gt;Pacific Marine Life Surveys&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Ben Keen | Open-source Developer, Bowen Island&lt;/p&gt;
-&lt;h1&gt;Resources&lt;/h1&gt;&lt;p&gt;Find our open source datasets and code on the &lt;a href=&#34;https://imerss.github.io/imerss-bioinfo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IMERSS GitHub repo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Subscribe to &lt;a href=&#34;https://groups.io/g/open-science-for-the-salish-sea/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Science for the Salish Sea&lt;/a&gt; to contribute!&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Eelgrass Community Ecology</title>
-      <link>https://imerss.org/projects/eelgrass/</link>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://imerss.org/projects/eelgrass/</guid>
-      <description>
-        
-        
-        &lt;h1&gt;Eelgrass Community Ecology&lt;/h1&gt;&lt;p&gt;
-    &lt;img src=&#34;../images/eelgrass_diatoms_9.jpg#floatright&#34; alt=&#34;eelgrass_diatoms&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h1&gt;Resources&lt;/h1&gt;&lt;p&gt;Find our open source datasets and code on the &lt;a href="https://imerss.github.io/imerss-bioinfo/" target="_blank" rel="noopener"&gt;IMERSS GitHub repo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Subscribe to &lt;a href="https://groups.io/g/open-science-for-the-salish-sea/" target="_blank" rel="noopener"&gt;Open Science for the Salish Sea&lt;/a&gt; to contribute!&lt;/p&gt;</description></item><item><title>Eelgrass Community Ecology</title><link>https://imerss.org/projects/eelgrass/</link><pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate><guid>https://imerss.org/projects/eelgrass/</guid><description>
+&lt;h1&gt;Eelgrass Community Ecology&lt;/h1&gt;&lt;p&gt;
+&lt;img src="../images/eelgrass_diatoms_9.jpg#floatright" alt="eelgrass_diatoms" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;Eelgrass (&lt;em&gt;Zostera marina&lt;/em&gt;) meadows are home to a great diversity of species, including fish, crabs, algae, and microorganisms. Eelgrass ecosystems contribute to many important coastal processes that humans rely on, such as carbon storage and coastal protection. Although eelgrass is well studied worldwide, there is little research that investigates the epiphytic microbes on leaf surfaces. Using scanning electron microscopy, we are mapping the surface of eelgrass leaves to visualize the spatial patterns and potential interactions of bacteria, fungi, and diatoms along the surface of the leaf. Additionally, we are cataloging bacterial, fungal, and diatom community diversity on eelgrass leaves, and looking at how diversity changes over time.&lt;/p&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated September 2020&lt;/p&gt;
 &lt;p&gt;Current status: Exploratory&lt;/p&gt;
 &lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;Arjan van Asselt, Mark Webber | IMERSS Labs&lt;/p&gt;
-&lt;p&gt;Emily Adamczyk, Laura Parfrey, Siobhan Schenk | &lt;a href=&#34;https://www.zoology.ubc.ca/~parfrey/parfrey_lab/research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Parfrey Lab (UBC)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Elaine Humphrey | &lt;a href=&#34;https://www.uvic.ca/research/advancedmicroscopy/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Microscopy Facility (UVic)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Thank you to &lt;a href=&#34;https://www.hitachi-hightech.com/ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hitachi High-Tech Canada Inc.&lt;/a&gt; for providing the Hitachi TM4000 Desktop Scanning Electron Microcope (SEM) for exploratory work on this project.&lt;/strong&gt;&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Janszen Legacy Project</title>
-      <link>https://imerss.org/projects/janszen-legacy/</link>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://imerss.org/projects/janszen-legacy/</guid>
-      <description>
-        
-        
-        &lt;h1&gt;Janszen Legacy Project&lt;/h1&gt;&lt;p&gt;
-    &lt;img src=&#34;../images/Hannah_Harvey_orchid_search_3.JPG#floatright&#34; alt=&#34;orchid search&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Emily Adamczyk, Laura Parfrey, Siobhan Schenk | &lt;a href="https://www.zoology.ubc.ca/~parfrey/parfrey_lab/research/" target="_blank" rel="noopener"&gt;Parfrey Lab (UBC)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Elaine Humphrey | &lt;a href="https://www.uvic.ca/research/advancedmicroscopy/index.php" target="_blank" rel="noopener"&gt;Advanced Microscopy Facility (UVic)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank you to &lt;a href="https://www.hitachi-hightech.com/ca/" target="_blank" rel="noopener"&gt;Hitachi High-Tech Canada Inc.&lt;/a&gt; for providing the Hitachi TM4000 Desktop Scanning Electron Microcope (SEM) for exploratory work on this project.&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Janszen Legacy Project</title><link>https://imerss.org/projects/janszen-legacy/</link><pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate><guid>https://imerss.org/projects/janszen-legacy/</guid><description>
+&lt;h1&gt;Janszen Legacy Project&lt;/h1&gt;&lt;p&gt;
+&lt;img src="../images/Hannah_Harvey_orchid_search_3.JPG#floatright" alt="orchid search" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;Harvey Janszen (July 11, 1946–May 10, 2021) was an accomplished amateur botanist and naturalist endeared to many in British Columbia’s natural history community. During his career, Harvey collected over 3,000 vascular plant specimens, mostly from the southern Gulf Islands of British Columbia, and curated comprehensive species checklists documenting the flora of the southern Gulf Islands, Saanich Peninsula, San Juan Islands, and various other localities throughout the Salish Sea.&lt;/p&gt;
 &lt;p&gt;Harvey’s dataset establishes a critical baseline record of the regional flora: a vital resource for understanding future ecological change in these communities. Through this initiative, we are carrying on Harvey’s legacy by curating comprehensive species lists for the region, and digitizing herbarium voucher specimens and field notes, to share widely as an open source data resource.&lt;/p&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated September 2023&lt;/p&gt;
 &lt;p&gt;Current status: Ongoing&lt;/p&gt;
 &lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;Andrew Simon | IMERSS&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.ciee-icee.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Canadian Institute of Ecology and Evolution&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Heidi Guest and Ken Marr | &lt;a href=&#34;https://rbcm.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Royal British Columbia Museum&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Linda Jennings | &lt;a href=&#34;https://beatymuseum.ubc.ca/research-2/collections/herbarium/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of British Columbia Herbarium&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;We thank Emma Menchions, Lindsay Trottier,  and Benjamin Mumford for their contributions to this project as Living Data Project interns supported by the Canadian Institute for Ecology and Evolution. Many thanks to Sandra Emry, David Hunt, Mike Lavender, Pierry Rogy, Diane Srivastava—and the rest of the CIEE team—for their ongoing support of this project.&lt;/strong&gt;&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Maritime Lichens of the Salish Sea</title>
-      <link>https://imerss.org/projects/maritime-lichens/</link>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://imerss.org/projects/maritime-lichens/</guid>
-      <description>
-        
-        
-        &lt;p&gt;-&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.ciee-icee.ca/" target="_blank" rel="noopener"&gt;Canadian Institute of Ecology and Evolution&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Heidi Guest and Ken Marr | &lt;a href="https://rbcm.ca/" target="_blank" rel="noopener"&gt;Royal British Columbia Museum&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Linda Jennings | &lt;a href="https://beatymuseum.ubc.ca/research-2/collections/herbarium/" target="_blank" rel="noopener"&gt;University of British Columbia Herbarium&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We thank Emma Menchions, Lindsay Trottier, and Benjamin Mumford for their contributions to this project as Living Data Project interns supported by the Canadian Institute for Ecology and Evolution. Many thanks to Sandra Emry, David Hunt, Mike Lavender, Pierry Rogy, Diane Srivastava—and the rest of the CIEE team—for their ongoing support of this project.&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Maritime Lichens of the Salish Sea</title><link>https://imerss.org/projects/maritime-lichens/</link><pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate><guid>https://imerss.org/projects/maritime-lichens/</guid><description>
+&lt;p&gt;-&lt;/p&gt;
 &lt;h1&gt;Maritime Lichens of the Salish Sea&lt;/h1&gt;&lt;p&gt;
-    &lt;img src=&#34;../images/Polycauliona-bolacina.png#floatright&#34; alt=&#34;Polycauliona-bolacina&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;img src="../images/Polycauliona-bolacina.png#floatright" alt="Polycauliona-bolacina" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;Lichens are able to colonize bare rock communities and live in harsh, nutrient-poor environments on account of their ability to photosynthesize and absorb ambient nutrients from the atmosphere, incident waters and their substrate. In shoreline environments, these lichens form habitat and fodder for a variety of invertebrates and plants at a scale that is easily overlooked. Because of various stresses such as sun and saltwater exposure, these lichens form communities in unique microenvironments along the coast. Such patterns are understudied in the eastern Pacific. The coastal rock exposures of the Salish Sea provide an excellent living lab for understanding patterns of maritime lichen diversity. This study aims to document the maritime species richness and distribution across the shales, sandstones, conglomerates, gneisses, basalts, gabbros, granitoids, limestones and marbles along the coastlines from Cortes Island to the Southern Gulf Islands. Results will be compared amongst localities within the Salish Sea to determine if and how community composition is governed by substrate chemistry and texture. This study also aims to provide a basis for further comparison to patterns of maritime lichen distribution elsewhere around the world.&lt;/p&gt;
 &lt;h1&gt;Partners&lt;/h1&gt;&lt;p&gt;Randal Mindel, Andrew Simon | IMERSS&lt;/p&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated November 2020&lt;/p&gt;
-&lt;p&gt;Current status: Ongoing&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Microclimate Monitoring</title>
-      <link>https://imerss.org/projects/microclimate-monitoring/</link>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://imerss.org/projects/microclimate-monitoring/</guid>
-      <description>
-        
-        
-        &lt;h1&gt;Microclimate Monitoring&lt;/h1&gt;&lt;p&gt;
-    &lt;img src=&#34;../images/Galiano_Wx.JPG#floatright&#34; alt=&#34;Galiano&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Current status: Ongoing&lt;/p&gt;</description></item><item><title>Microclimate Monitoring</title><link>https://imerss.org/projects/microclimate-monitoring/</link><pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate><guid>https://imerss.org/projects/microclimate-monitoring/</guid><description>
+&lt;h1&gt;Microclimate Monitoring&lt;/h1&gt;&lt;p&gt;
+&lt;img src="../images/Galiano_Wx.JPG#floatright" alt="Galiano" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;This program engages citizens and scientists alike in an ongoing effort to monitor microclimate in the southern Gulf Islands. Through this study we aim to develop a better understanding of local scale controls on microclimate, including topographic, latitudinal and oceanic effects. These data can help land managers and ecologists better anticipate the differential outcomes that climate change may have for both human and ecological communities across this coastal landscape.&lt;/p&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project initiated February 2018&lt;/p&gt;
 &lt;p&gt;Current status: Ongoing&lt;/p&gt;
 &lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;Andrew Simon, Kevin Toomer | IMERSS Labs&lt;/p&gt;
-&lt;p&gt;Heather Klassen | &lt;a href=&#34;https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/forests&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BC Ministry of Forests&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Ed Wiebe | &lt;a href=&#34;https://www.uvic.ca/science/seos/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UVic Earth &amp;amp; Ocean Sciences&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Dan Moore | &lt;a href=&#34;https://geog.ubc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UBC Geography&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://lyackson.bc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lyackson First Nation&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://galianoconservancy.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Galiano Conservancy Association&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.valdesconservancy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Valdes Island Conservancy&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;We are grateful to the &lt;a href=&#34;http://bcparks.ca/partnerships/pef.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BC Parks Park Enhancement Fund&lt;/a&gt; for supporting this research project.&lt;/strong&gt;&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Microscopic Explorations</title>
-      <link>https://imerss.org/projects/microscopic-explorations/</link>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://imerss.org/projects/microscopic-explorations/</guid>
-      <description>
-        
-        
-        &lt;h1&gt;Microscopic Explorations&lt;/h1&gt;&lt;p&gt;
-    &lt;img src=&#34;../images/Austin_SEM_2.jpg#floatright&#34; alt=&#34;microscope session&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Heather Klassen | &lt;a href="https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/forests" target="_blank" rel="noopener"&gt;BC Ministry of Forests&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ed Wiebe | &lt;a href="https://www.uvic.ca/science/seos/index.php" target="_blank" rel="noopener"&gt;UVic Earth &amp;amp; Ocean Sciences&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dan Moore | &lt;a href="https://geog.ubc.ca/" target="_blank" rel="noopener"&gt;UBC Geography&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lyackson.bc.ca/" target="_blank" rel="noopener"&gt;Lyackson First Nation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://galianoconservancy.ca/" target="_blank" rel="noopener"&gt;Galiano Conservancy Association&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.valdesconservancy.org/" target="_blank" rel="noopener"&gt;Valdes Island Conservancy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We are grateful to the &lt;a href="http://bcparks.ca/partnerships/pef.html" target="_blank" rel="noopener"&gt;BC Parks Park Enhancement Fund&lt;/a&gt; for supporting this research project.&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Microscopic Explorations</title><link>https://imerss.org/projects/microscopic-explorations/</link><pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate><guid>https://imerss.org/projects/microscopic-explorations/</guid><description>
+&lt;h1&gt;Microscopic Explorations&lt;/h1&gt;&lt;p&gt;
+&lt;img src="../images/Austin_SEM_2.jpg#floatright" alt="microscope session" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;A science outreach program connecting communities with the wonders of natural history, as revealed through the magic of microscopy—including a desktop Scanning Electron Microscope! In this interactive series, we bring Dr. Elaine Humphrey together with various experts to explore topics in natural history, guided by our participants’ questions and observations, and the insights of our experts.&lt;/p&gt;
-&lt;p&gt;Contact Dr. Elaine Humphrey at &lt;a href=&#34;mailto:ech@uvic.ca&#34; &gt;ech@uvic.ca&lt;/a&gt; to bring the traveling microscopic lab to your community!&lt;/p&gt;
+&lt;p&gt;Contact Dr. Elaine Humphrey at &lt;a href="mailto:ech@uvic.ca" &gt;ech@uvic.ca&lt;/a&gt; to bring the traveling microscopic lab to your community!&lt;/p&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated July 2020&lt;/p&gt;
 &lt;p&gt;Current status: Ongoing&lt;/p&gt;
-&lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;Elaine Humphrey | &lt;a href=&#34;https://www.uvic.ca/research/advancedmicroscopy/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UVic Advanced Microscopy Facility&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Thank you to &lt;a href=&#34;https://www.hitachi-hightech.com/ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hitachi High-Tech Canada Inc.&lt;/a&gt; for providing the Hitachi TM4000 Desktop Scanning Electron Microcope (SEM) for exploratory work on this project. We also thank the many experts who have guided us through these exploratations.&lt;/strong&gt;&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Operation GaliWatch</title>
-      <link>https://imerss.org/projects/operation-galiwatch/</link>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://imerss.org/projects/operation-galiwatch/</guid>
-      <description>
-        
-        
-        &lt;h1&gt;Operation GaliWatch&lt;/h1&gt;&lt;p&gt;
-    &lt;img src=&#34;../images/Gali-Watch.jpg#floatright&#34; alt=&#34;Gali-Watch&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Wild pollinators are an integral part of native plant communities and are highly effective at pollinating flowers in natural ecosystems. The &lt;a href=&#34;https://galiwatch.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GaliWatch project&lt;/a&gt; is dedicated to developing low-cost data collection and analysis systems for long-term pollinator surveillance and hyperlocal weather and climate monitoring. Within natural ecosystems, the diversity and abundance of wild bees and other pollinators provides redundancy that ensures ongoing pollination and plant productivity despite a changing environment. Changing environmental conditions caused by weather, climate change, or human interventions, may disrupt pollinator activity for some species but enhance it for others. To monitor these phenomena, we have established a low-cost set-up of cameras to monitor floral visitations by pollinators, and data-loggers to monitor local environmental conditions. Our cameras will capture approximately 0.5 million images (2 terabytes of data!) over a six-month study period. To process this dataset, we are currently training and running a convolutional neural network. Once successful, we will spread the word on how you can make your own pollinator and climate monitoring setup.&lt;/p&gt;
+&lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;Elaine Humphrey | &lt;a href="https://www.uvic.ca/research/advancedmicroscopy/index.php" target="_blank" rel="noopener"&gt;UVic Advanced Microscopy Facility&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank you to &lt;a href="https://www.hitachi-hightech.com/ca/" target="_blank" rel="noopener"&gt;Hitachi High-Tech Canada Inc.&lt;/a&gt; for providing the Hitachi TM4000 Desktop Scanning Electron Microcope (SEM) for exploratory work on this project. We also thank the many experts who have guided us through these exploratations.&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Operation GaliWatch</title><link>https://imerss.org/projects/operation-galiwatch/</link><pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate><guid>https://imerss.org/projects/operation-galiwatch/</guid><description>
+&lt;h1&gt;Operation GaliWatch&lt;/h1&gt;&lt;p&gt;
+&lt;img src="../images/Gali-Watch.jpg#floatright" alt="Gali-Watch" loading="lazy" /&gt;&lt;/p&gt;
+&lt;p&gt;Wild pollinators are an integral part of native plant communities and are highly effective at pollinating flowers in natural ecosystems. The &lt;a href="https://galiwatch.ca/" target="_blank" rel="noopener"&gt;GaliWatch project&lt;/a&gt; is dedicated to developing low-cost data collection and analysis systems for long-term pollinator surveillance and hyperlocal weather and climate monitoring. Within natural ecosystems, the diversity and abundance of wild bees and other pollinators provides redundancy that ensures ongoing pollination and plant productivity despite a changing environment. Changing environmental conditions caused by weather, climate change, or human interventions, may disrupt pollinator activity for some species but enhance it for others. To monitor these phenomena, we have established a low-cost set-up of cameras to monitor floral visitations by pollinators, and data-loggers to monitor local environmental conditions. Our cameras will capture approximately 0.5 million images (2 terabytes of data!) over a six-month study period. To process this dataset, we are currently training and running a convolutional neural network. Once successful, we will spread the word on how you can make your own pollinator and climate monitoring setup.&lt;/p&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated January 2021&lt;/p&gt;
-&lt;p&gt;Current status: Ongoing&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Xetthecum Ecocultural Mapping Pilot</title>
-      <link>https://imerss.org/projects/ecocultural-mapping/</link>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://imerss.org/projects/ecocultural-mapping/</guid>
-      <description>
-        
-        
-        &lt;h1&gt;&lt;em&gt;Xetthecum&lt;/em&gt; Ecocultural Mapping Pilot&lt;/h1&gt;&lt;p&gt;The &lt;em&gt;Xetthecum&lt;/em&gt; pilot project is an initiative to weave together Indigenous ways of knowing and Western ecological science into an ecocultural map of Retreat Cove (Xetthecum in the Hul’qumi’num language), Galiano Island, BC. Created in partnership with Indigenous and non-Indigenous collaborators, this participatory mapping program, developed in a Geographic Information System (GIS) framework, is using online data visualizations to communicate historical and contemporary biodiversity data, terrestrial ecosystem mapping, written and spoken Hul’qumi’num, and stories of place. By engaging a multigenerational and cross-cultural community in documenting Xetthecum’s sensitive ecosystems and cultural keystone species, we aim to foster a holistic approach to shle’muxun—meaning “guardian of the land,” or “stewardship,” in Hul’qumi’num. Beyond this pilot project, we aspire to adapt these practices in partnership with &lt;a href=&#34;https://www.whiteswanenvironmental.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Whiteswan Environmental&lt;/a&gt; to create ecocultural maps of significant sites throughout the Salish Sea.&lt;/p&gt;
-&lt;div class=&#34;youtube-block&#34;&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/0v84S7DeORU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
+&lt;p&gt;Current status: Ongoing&lt;/p&gt;</description></item><item><title>Xetthecum Ecocultural Mapping Pilot</title><link>https://imerss.org/projects/ecocultural-mapping/</link><pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate><guid>https://imerss.org/projects/ecocultural-mapping/</guid><description>
+&lt;h1&gt;&lt;em&gt;Xetthecum&lt;/em&gt; Ecocultural Mapping Pilot&lt;/h1&gt;&lt;p&gt;The &lt;em&gt;Xetthecum&lt;/em&gt; pilot project is an initiative to weave together Indigenous ways of knowing and Western ecological science into an ecocultural map of Retreat Cove (Xetthecum in the Hul’qumi’num language), Galiano Island, BC. Created in partnership with Indigenous and non-Indigenous collaborators, this participatory mapping program, developed in a Geographic Information System (GIS) framework, is using online data visualizations to communicate historical and contemporary biodiversity data, terrestrial ecosystem mapping, written and spoken Hul’qumi’num, and stories of place. By engaging a multigenerational and cross-cultural community in documenting Xetthecum’s sensitive ecosystems and cultural keystone species, we aim to foster a holistic approach to shle’muxun—meaning “guardian of the land,” or “stewardship,” in Hul’qumi’num. Beyond this pilot project, we aspire to adapt these practices in partnership with &lt;a href="https://www.whiteswanenvironmental.org/" target="_blank" rel="noopener"&gt;Whiteswan Environmental&lt;/a&gt; to create ecocultural maps of significant sites throughout the Salish Sea.&lt;/p&gt;
+&lt;div class="youtube-block"&gt;
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/0v84S7DeORU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated October 2020&lt;/p&gt;
 &lt;p&gt;Current status: Ongoing&lt;/p&gt;
 &lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;Jeannine Georgeson, Antranig Basman, Andrew Simon | IMERSS&lt;/p&gt;
-&lt;p&gt;Dana Ayotte | &lt;a href=&#34;https://idrc.ocadu.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Inclusive Design Research Centre&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.whiteswanenvironmental.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Whiteswan Environmental&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://vashonnaturecenter.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vashon Nature Centre&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;We are grateful for funding provided by &lt;a href=&#34;https://watershedsbc.ca/indigenous-watersheds-initiative/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Indigenous Watersheds Initiative&lt;/a&gt;, the &lt;a href=&#34;https://idrc.ocadu.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Inclusive Design Research Centre&lt;/a&gt;, and the &lt;a href=&#34;https://www.sgicommunityresources.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Southern Gulf Island Community Resource Centre&lt;/a&gt; in support of this ongoing ecocultural mapping initiative.&lt;/strong&gt;&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>20/20 Vision on Plant Extirpation</title>
-      <link>https://imerss.org/projects/extirpation/</link>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://imerss.org/projects/extirpation/</guid>
-      <description>
-        
-        
-        &lt;h1&gt;20/20 Vision on Plant Extirpation&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;../projects/images/Hannah_Harvey_orchid_search_3.JPG#floatright&#34; alt=&#34;orchid search&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Dana Ayotte | &lt;a href="https://idrc.ocadu.ca/" target="_blank" rel="noopener"&gt;Inclusive Design Research Centre&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.whiteswanenvironmental.org/" target="_blank" rel="noopener"&gt;Whiteswan Environmental&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vashonnaturecenter.org/" target="_blank" rel="noopener"&gt;Vashon Nature Centre&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We are grateful for funding provided by &lt;a href="https://watershedsbc.ca/indigenous-watersheds-initiative/" target="_blank" rel="noopener"&gt;Indigenous Watersheds Initiative&lt;/a&gt;, the &lt;a href="https://idrc.ocadu.ca/" target="_blank" rel="noopener"&gt;Inclusive Design Research Centre&lt;/a&gt;, and the &lt;a href="https://www.sgicommunityresources.ca/" target="_blank" rel="noopener"&gt;Southern Gulf Island Community Resource Centre&lt;/a&gt; in support of this ongoing ecocultural mapping initiative.&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>20/20 Vision on Plant Extirpation</title><link>https://imerss.org/projects/extirpation/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate><guid>https://imerss.org/projects/extirpation/</guid><description>
+&lt;h1&gt;20/20 Vision on Plant Extirpation&lt;/h1&gt;&lt;p&gt;&lt;img src="../projects/images/Hannah_Harvey_orchid_search_3.JPG#floatright" alt="orchid search" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;This project aims to establish a novel protocol for the detection of species extirpation, drawing on historical baseline data and contemporary citizen science observations recorded on the Biodiversity Galiano project using iNaturalist. After five years of extensive community-based search efforts, we have identified 14 vascular plant species that are at risk of extirpation from Galiano Island. Through targeted search efforts covering historical collection sites and suitable habitat, this project will test the potential for citizen science to detect ecological changes and inform conservation strategies with reference to historical baseline information.&lt;/p&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated January 2020&lt;/p&gt;
 &lt;p&gt;Current status: Ongoing&lt;/p&gt;
 &lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;Andrew Simon | IMERSS Labs&lt;/p&gt;
-&lt;p&gt;Quentin Cronk, Linda Jennings | &lt;a href=&#34;https://beatymuseum.ubc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beaty Biodiversity Museum&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Quentin Cronk, Linda Jennings | &lt;a href="https://beatymuseum.ubc.ca/" target="_blank" rel="noopener"&gt;Beaty Biodiversity Museum&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Harvey Janszen, Caitlin Robinson, Alexander Wright&lt;/p&gt;
-&lt;p&gt;Marta Donovan, Jenifer Penny | &lt;a href=&#34;https://www2.gov.bc.ca/gov/content/environment/plants-animals-ecosystems/conservation-data-centre&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BC Conservation Data Centre&lt;/a&gt;&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Diatoms of the Salish Sea</title>
-      <link>https://imerss.org/projects/diatoms/</link>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://imerss.org/projects/diatoms/</guid>
-      <description>
-        
-        
-        &lt;h1&gt;Diatoms of the Salish Sea&lt;/h1&gt;&lt;p&gt;
-    &lt;img src=&#34;../images/SHW-Stub-13-TM4000.jpg#floatright&#34; alt=&#34;diatom SEM&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Marta Donovan, Jenifer Penny | &lt;a href="https://www2.gov.bc.ca/gov/content/environment/plants-animals-ecosystems/conservation-data-centre" target="_blank" rel="noopener"&gt;BC Conservation Data Centre&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Diatoms of the Salish Sea</title><link>https://imerss.org/projects/diatoms/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate><guid>https://imerss.org/projects/diatoms/</guid><description>
+&lt;h1&gt;Diatoms of the Salish Sea&lt;/h1&gt;&lt;p&gt;
+&lt;img src="../images/SHW-Stub-13-TM4000.jpg#floatright" alt="diatom SEM" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;Diatoms are a major group of photosynthetic micro-algae living in marine and freshwater environments, which provide vast quantities of oxygen, food and nutrients for a wide range of organisms. The last regional diatom inventories were undertaken by Cupp (1943) for the West Coast of North America and Shim (1976) for the Georgia Strait, to the exclusion of many benthic and epiphytic species. This project aims to establish an updated taxonomic inventory of diatoms known to the Salish Sea, including detailed descriptions, discussions, observations and references. We apply light microscopy and Scanning Electron Microscopy (SEM) to determine species based on key taxonomic features. To extend this work, we are also exploring the application of third-generation molecular sequencing technology to barcode diatoms and promote community access to genomics research.&lt;/p&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated September 2012&lt;/p&gt;
 &lt;p&gt;Current status: Ongoing&lt;/p&gt;
 &lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;Mark Webber, Arjan van Asselt | IMERSS Labs&lt;/p&gt;
 &lt;p&gt;Elaine Humphrey | Advanced Microscopy Facility (UVic)&lt;/p&gt;
 &lt;p&gt;Alice Chang | UBC&lt;/p&gt;
-&lt;h1&gt;Resources&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://www.inaturalist.org/observations?place_id=any&amp;amp;subview=grid&amp;amp;taxon_id=123880&amp;amp;user_id=lamamark&amp;amp;verifiable=any&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Salish Sea Diatoms on iNaturalist&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Thank you to &lt;a href=&#34;https://www.hitachi-hightech.com/ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hitachi High-Tech Canada Inc.&lt;/a&gt; for providing the Hitachi TM4000 Desktop Scanning Electron Microcope for work on this project in July 2020.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sentinels of Change</title>
-      <link>https://imerss.org/projects/sentinels-of-change/</link>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://imerss.org/projects/sentinels-of-change/</guid>
-      <description>
-        
-        
-        &lt;h1&gt;Sentinels of Change&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;../projects/images/Brenna-light-trap.jpg#floatright&#34; alt=&#34;Brenna light trap&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;IMERSS is one of several Salish Sea partners for the Hakai Institute led Sentinels of Change Dungeness crab larvae light trap. It is a decade-long study focusing on understanding the population fluctuations of the Dungeness crab larvae to their adult stages. By improving our knowledge, it can help provide information to managers and decision makers to help sustain healthy ecosystems and communities. &lt;a href=&#34;Sentinels.hakai.org&#34; &gt;Learn more about the project and other project partners&lt;/a&gt;.&lt;/p&gt;
+&lt;h1&gt;Resources&lt;/h1&gt;&lt;p&gt;&lt;a href="https://www.inaturalist.org/observations?place_id=any&amp;amp;subview=grid&amp;amp;taxon_id=123880&amp;amp;user_id=lamamark&amp;amp;verifiable=any" target="_blank" rel="noopener"&gt;Salish Sea Diatoms on iNaturalist&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thank you to &lt;a href="https://www.hitachi-hightech.com/ca/" target="_blank" rel="noopener"&gt;Hitachi High-Tech Canada Inc.&lt;/a&gt; for providing the Hitachi TM4000 Desktop Scanning Electron Microcope for work on this project in July 2020.&lt;/p&gt;</description></item><item><title>Sentinels of Change</title><link>https://imerss.org/projects/sentinels-of-change/</link><pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate><guid>https://imerss.org/projects/sentinels-of-change/</guid><description>
+&lt;h1&gt;Sentinels of Change&lt;/h1&gt;&lt;p&gt;&lt;img src="../projects/images/Brenna-light-trap.jpg#floatright" alt="Brenna light trap" loading="lazy" /&gt;&lt;/p&gt;
+&lt;p&gt;IMERSS is one of several Salish Sea partners for the Hakai Institute led Sentinels of Change Dungeness crab larvae light trap. It is a decade-long study focusing on understanding the population fluctuations of the Dungeness crab larvae to their adult stages. By improving our knowledge, it can help provide information to managers and decision makers to help sustain healthy ecosystems and communities. &lt;a href="Sentinels.hakai.org" &gt;Learn more about the project and other project partners&lt;/a&gt;.&lt;/p&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated 2021&lt;/p&gt;
 &lt;p&gt;Current status: Ongoing&lt;/p&gt;
-&lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://hakai.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hakai Institute&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.pnwcrab.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pacific Northwest Crab Research Group&lt;/a&gt;&lt;/p&gt;
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;&lt;a href="https://hakai.org/" target="_blank" rel="noopener"&gt;Hakai Institute&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.pnwcrab.com/" target="_blank" rel="noopener"&gt;Pacific Northwest Crab Research Group&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
