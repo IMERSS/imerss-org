@@ -27,7 +27,7 @@ date: 2026-03-02
     subtitle="" 
     image="images/Bio_informatics_1.4.jpg">}}
   {{< card link="#education" 
-    title="Public Education" 
+    title="Education & Engagement" 
     subtitle="" 
     image="images/Laura_Colwell_1.4.jpg">}}
 {{< /cards >}}
@@ -102,7 +102,7 @@ Preserving the work of dedicated naturalists who have monitored the bioregion ov
 {{< /cards >}}
 
 
-## Public Education {#education}
+## Education & Engagement {#education}
 IMERSS strives to foster opportunities for learning within and across communities of practice. From opportunities for youth and others to learn about microscopy through Microscopic Explorations, to internships and artist collaborations, we aim to build community and deepen knowledge through interdisciplinary place-based learning.
 
 {{< cards >}}
@@ -110,6 +110,14 @@ IMERSS strives to foster opportunities for learning within and across communitie
     title="Microscopic Explorations" 
     subtitle="A science outreach program connecting communities with the wonders of natural history, as seen through the lens of microscopy." 
     image="/projects/images/Austin_SEM_2_1.4.jpg">}}
+  {{< card link="/projects/internships" 
+    title="Internships" 
+    subtitle="Creating opportunities for early-career scientists to make valuable research contributions." 
+    image="/projects/images/web-of-life-1.4.png">}}
+   {{< card link="/projects/artists" 
+    title="Artistic Collaborations" 
+    subtitle="Bringing together scientists, musicians and artists for new perspectives on this land we call home." 
+    image="/projects/images/music_1.4.jpg">}}
 {{< /cards >}}
 
 
