@@ -114,7 +114,6 @@ img, svg, video, canvas, audio, iframe, embed, object {
     padding-top: 128px;
     font-weight: 300;
     font-size: 80px;
-    max-width: 70vw;
     text-align: center;
     line-height: 1.2;
 }
@@ -494,9 +493,12 @@ main, .page-main, .content {
   -webkit-box-shadow: none !important;
 }
 
+.hextra-copyright {
+    margin-left: 1rem;
+}
 
 
-/* ── Hextra 0.9.x dropdown navbar menus ──────────────────────────── */
+    /* ── Hextra 0.9.x dropdown navbar menus ──────────────────────────── */
 
 .imerss-navbar-links {
     display: flex;

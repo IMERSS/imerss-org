@@ -1803,8 +1803,7 @@ video {
 .subheading-anchor:where([dir="rtl"], [dir="rtl"] *) {
   margin-right: 0.25rem;
 }
-span:target + .subheading-anchor,
-  :hover > .subheading-anchor,
+:hover > .subheading-anchor,
   .subheading-anchor:focus {
   opacity: 1;
 }
@@ -1818,7 +1817,7 @@ span + .subheading-anchor,
   --tw-content: '#';
   content: var(--tw-content);
   --tw-text-opacity: 1;
-  color: rgb(209 213 219 / var(--tw-text-opacity));
+  color: rgb(156 163 175 / var(--tw-text-opacity));
 }
 .subheading-anchor:is(html[class~="dark"] *):after {
   --tw-text-opacity: 1;

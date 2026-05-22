@@ -1,7 +1,7 @@
 # Configuration
 baseURL: "https://imerss.org/"
 title: IMERSS
-author: 
+author:
   name: "Joanne Whitehead"
   email: "joannew@gmx.com"
 
