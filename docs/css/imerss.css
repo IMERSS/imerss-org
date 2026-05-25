@@ -397,21 +397,22 @@ img[src$='#floatleft'] {
 /* full-width banner images */
 
 .hero-image {
-  position: relative;
-  width: 100%;
-  margin-bottom: 2rem;
-  overflow: hidden;
+    position: relative;
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
+    margin-bottom: 2rem;
+    overflow: hidden;
 }
 
 .hero-image img {
-  width: 100%;
-  height: auto;
-  display: block;
-  object-fit: cover;
-  max-height: 450px;
-  margin-top: 0;
-  margin-bottom: 0;
-  border-radius: 0;
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    max-height: 150px;
+    margin-top: 0;
+    margin-bottom: 0;
+    border-radius: 0;
 }
 
 /* for a centre title */
