@@ -14,12 +14,3 @@
   {{- end }}
 {{- end }}
 
-
-<!-- Custom CSS -->
-{{- $custom := resources.Get "css/custom.css" }}
-{{- if hugo.IsProduction -}}
-  {{- $custom = $custom | minify | fingerprint }}
-  <link href="{{ $custom.RelPermalink }}" rel="stylesheet" integrity="{{ $custom.Data.Integrity }}" />
-{{- else }}
-  <link href="{{ $custom.RelPermalink }}" rel="stylesheet" />
-{{- end }}
