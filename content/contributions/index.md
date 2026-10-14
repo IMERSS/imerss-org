@@ -41,7 +41,6 @@ We are working with communities throughout the Salish Sea to create open source 
 [Access our open source code on GitHub](https://github.com/imerss/).
 
 
-
 ### [Toward an atlas of Salish Sea biodiversity](https://bdj.pensoft.net/article/76050)
 ![Quelus](images/Quelus.jpeg#floatleft)
 
