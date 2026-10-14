@@ -19,5 +19,25 @@ options(
   blogdown.method = 'markdown'
 )
 
-# fix Hugo version
-options(blogdown.hugo.version = "0.160.1")
+# 1. Define the required Hugo version
+options(blogdown.hugo.version = "0.121.0")
+
+# 2. Automatically check and download if missing
+if (interactive() && requireNamespace("blogdown", quietly = TRUE)) {
+  target_version <- getOption("blogdown.hugo.version")
+
+  # Check if the exact target version is already installed locally
+  installed_versions <- blogdown::find_hugo("all")
+
+  if (!target_version %in% installed_versions) {
+    message(paste0("ℹ [blogdown] Required Hugo v", target_version, " not found locally."))
+    message("📥 Automatically installing Hugo v", target_version, "...")
+
+    tryCatch({
+      blogdown::install_hugo(version = target_version)
+      message("✅ Hugo installation complete!")
+    }, error = function(e) {
+      warning("❌ Automatic Hugo installation failed. Please run blogdown::install_hugo('", target_version, "') manually.")
+    })
+  }
+}

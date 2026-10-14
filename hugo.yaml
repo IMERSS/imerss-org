@@ -13,7 +13,7 @@ relativeUrls: true
 publishDir: docs
 
 enableRobotsTXT: true
-enableGitInfo: true
+enableGitInfo: false
 # enableEmoji: false
 hasCJKLanguage: false
 
