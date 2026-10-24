@@ -97,8 +97,12 @@ menu:
       name: Donate
       pageRef: /donate
       weight: 6
-    - name: Search
+    - identifier: docs
+      name: Docs
+      url: "https://imerss.github.io/detecting-local-extinction/docs/"
       weight: 7
+    - name: Search
+      weight: 8
       params:
         type: search
 
