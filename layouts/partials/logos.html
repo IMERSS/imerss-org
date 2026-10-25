@@ -1,0 +1,16 @@
+{{/* Funder and partner logos, listed by key in the page's `logos` front matter (see data/logos.yaml) */}}
+{{- with .Params.logos }}
+<section class="imerss-logos" aria-label="Funders and partners">
+  <ul class="imerss-logos-list">
+    {{- range . }}
+    {{- with index site.Data.logos . }}
+    <li>
+      <a href="{{ .url }}" target="_blank" rel="noreferrer" title="{{ .name }}">
+        <img src="{{ .logo | relURL }}" alt="{{ .name }}" loading="lazy">
+      </a>
+    </li>
+    {{- end }}
+    {{- end }}
+  </ul>
+</section>
+{{- end }}

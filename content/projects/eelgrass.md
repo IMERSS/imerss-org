@@ -1,7 +1,7 @@
 ---
 title: Eelgrass Community Ecology
 date: '2026-03-05'
-funders: [hitachi]
+logos: [hitachi, ubc, uvic]
 ---
 
 # Eelgrass Community Ecology

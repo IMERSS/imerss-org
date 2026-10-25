@@ -1,7 +1,7 @@
 ---
 title: Janszen Legacy Project
 date: '2026-03-05'
-funders: [ciee]
+logos: [ciee, rbcm, beaty]
 ---
 
 # Janszen Legacy Project

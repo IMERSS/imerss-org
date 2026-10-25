@@ -1,0 +1,75 @@
+# Logos of funders and partners. List a project's logos by key in its
+# front matter (e.g. `logos: [bc-parks, uvic]`) to show them below
+# Partnerships on that project page.
+iwi:
+  name: Indigenous Watersheds Initiative
+  url: https://watershedsbc.ca/indigenous-watersheds-initiative/
+  logo: images/logos/indigenous-watersheds-initiative.png
+idrc:
+  name: Inclusive Design Research Centre
+  url: https://idrc.ocadu.ca/
+  logo: images/logos/idrc.png
+sgi-crc:
+  name: Southern Gulf Islands Community Resource Centre
+  url: https://www.sgicommunityresources.ca/
+  logo: images/logos/sgi-community-resource-centre.png
+bc-parks:
+  name: BC Parks Park Enhancement Fund
+  url: https://bcparks.ca/
+  logo: images/logos/bc-parks.svg
+ciee:
+  name: Canadian Institute of Ecology and Evolution
+  url: https://www.ciee-icee.ca/
+  logo: images/logos/ciee.png
+hitachi:
+  name: Hitachi High-Tech Canada
+  url: https://www.hitachi-hightech.com/ca/
+  logo: images/logos/hitachi.svg
+uvic:
+  name: University of Victoria
+  url: https://www.uvic.ca/
+  logo: images/logos/uvic.svg
+ubc:
+  name: University of British Columbia
+  url: https://www.ubc.ca/
+  logo: images/logos/ubc.svg
+whiteswan:
+  name: Whiteswan Environmental
+  url: https://www.whiteswanenvironmental.org/
+  logo: images/logos/whiteswan-environmental.png
+vashon:
+  name: Vashon Nature Center
+  url: https://vashonnaturecenter.org/
+  logo: images/logos/vashon-nature-center.png
+beaty:
+  name: Beaty Biodiversity Museum
+  url: https://beatymuseum.ubc.ca/
+  logo: images/logos/beaty-biodiversity-museum.png
+bc-government:
+  name: Government of British Columbia
+  url: https://www2.gov.bc.ca/
+  logo: images/logos/bc-government.svg
+rbcm:
+  name: Royal BC Museum
+  url: https://rbcm.ca/
+  logo: images/logos/royal-bc-museum.svg
+lyackson:
+  name: Lyackson First Nation
+  url: https://lyackson.bc.ca/
+  logo: images/logos/lyackson-first-nation.png
+galiano-conservancy:
+  name: Galiano Conservancy Association
+  url: https://galianoconservancy.ca/
+  logo: images/logos/galiano-conservancy.svg
+valdes:
+  name: Valdes Island Conservancy
+  url: https://www.valdesconservancy.org/
+  logo: images/logos/valdes-island-conservancy.png
+hakai:
+  name: Hakai Institute
+  url: https://hakai.org/
+  logo: images/logos/hakai-institute.svg
+pnw-crab:
+  name: Pacific Northwest Crab Research Group
+  url: https://www.pnwcrab.com/
+  logo: images/logos/pnw-crab-research-group.png

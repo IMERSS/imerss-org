@@ -1,6 +1,7 @@
 ---
 title: 20/20 Vision on Plant Extirpation
 date: '2026-03-03'
+logos: [beaty, bc-government]
 ---
 
 # 20/20 Vision on Plant Extirpation

@@ -684,25 +684,14 @@ html.dark .content .imerss-social-link:focus-visible {
 }
 
 
-/* Funder logos below Partnerships on project pages */
-.imerss-funders {
+/* Funder and partner logos below Partnerships on project pages */
+.imerss-logos {
   clear: both;
   margin-top: 3.5rem;
   padding-top: 2rem;
   border-top: 1px solid var(--bs-border-color);
 }
-.imerss-funders-title {
-  border: 0;
-  padding: 0;
-  font-size: 0.8rem;
-  font-weight: 600;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  text-align: center;
-  color: #6b7280;
-  margin: 0 0 1.5rem;
-}
-.imerss-funders-list {
+.imerss-logos-list {
   list-style: none;
   margin: 0;
   padding: 0;
@@ -711,38 +700,37 @@ html.dark .content .imerss-social-link:focus-visible {
   justify-content: center;
   gap: 1rem;
 }
-.imerss-funders-list li {
+.imerss-logos-list li {
   margin: 0;
-  flex: 0 1 260px;
+  flex: 0 1 190px;
 }
-.imerss-funders-list a {
+.imerss-logos-list a {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 104px;
-  padding: 1rem 1.5rem;
+  height: 88px;
+  padding: 0.75rem 1rem;
   background: #fff;
   border: 1px solid var(--bs-border-color);
   border-radius: 10px;
   transition: box-shadow .2s ease, transform .2s ease;
 }
-.imerss-funders-list a:hover,
-.imerss-funders-list a:focus-visible {
+.imerss-logos-list a:hover,
+.imerss-logos-list a:focus-visible {
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
   transform: translateY(-1px);
 }
-.imerss-funders-list img {
+.imerss-logos-list img {
   width: auto;
   height: auto;
   max-width: 100%;
-  max-height: 64px;
+  max-height: 56px;
   margin: 0;
   object-fit: contain;
 }
-html.dark .imerss-funders-title { color: #9ca3af; }
-html.dark .imerss-funders-list a { border-color: transparent; }
+html.dark html.dark .imerss-logos-list a { border-color: transparent; }
 @media (max-width: 640px) {
-  .imerss-funders-list li { flex-basis: 100%; }
-  .imerss-funders-list a { height: 84px; padding: 0.75rem 1rem; }
-  .imerss-funders-list img { max-height: 52px; }
+  .imerss-logos-list li { flex-basis: 100%; }
+  .imerss-logos-list a { height: 84px; padding: 0.75rem 1rem; }
+  .imerss-logos-list img { max-height: 52px; }
 }

@@ -1,7 +1,7 @@
 ---
 title: Microclimate Monitoring
 date: '2026-03-05'
-funders: [bc-parks]
+logos: [bc-parks, bc-government, uvic, ubc, lyackson, galiano-conservancy, valdes]
 ---
 
 # Microclimate Monitoring

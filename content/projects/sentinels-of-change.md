@@ -1,6 +1,7 @@
 ---
 title: "Sentinels of Change"
 date: '2026-03-02'
+logos: [hakai, pnw-crab]
 ---
 
 # Sentinels of Change

@@ -1,6 +1,7 @@
 ---
 title: Biodiversity Informatics Working Group
 date: '2026-03-05'
+logos: [idrc]
 ---
 
 # Biodiversity Informatics Working Group

@@ -1,7 +1,7 @@
 ---
 title: "Diatoms of the Salish Sea"
 date: '2026-03-03'
-funders: [hitachi]
+logos: [hitachi, uvic, ubc]
 ---
 
 # Diatoms of the Salish Sea
