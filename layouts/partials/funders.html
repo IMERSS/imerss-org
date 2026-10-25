@@ -1,0 +1,15 @@
+{{/* Funder logos shown below the Partnerships section on project pages; edit data/funders.yaml to change them */}}
+{{- with site.Data.funders }}
+<section class="imerss-funders" aria-labelledby="imerss-funders-title">
+  <h2 id="imerss-funders-title" class="imerss-funders-title">With thanks to our funders</h2>
+  <ul class="imerss-funders-list">
+    {{- range . }}
+    <li>
+      <a href="{{ .url }}" target="_blank" rel="noreferrer" title="{{ .name }}">
+        <img src="{{ .logo | relURL }}" alt="{{ .name }}" loading="lazy">
+      </a>
+    </li>
+    {{- end }}
+  </ul>
+</section>
+{{- end }}

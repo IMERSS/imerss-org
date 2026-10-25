@@ -61,6 +61,7 @@ removed a few hard-coded title styles */}}
     {{- if .Children -}}
     {{/* --- Parent item with dropdown --- */}}
     <div class="hx-dropdown hx-relative">
+      {{- if $link }}
       <a title="{{ or (T .Identifier) .Name | safeHTML }}"
       href="{{ $link }}"
       {{ if $external }}target="_blank" rel="noreferrer"{{ end }}
@@ -69,6 +70,16 @@ removed a few hard-coded title styles */}}
       {{ or (T .Identifier) .Name | safeHTML }}
       <svg class="hx-dropdown-trigger hx-dropdown-chevron" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"/></svg>
       </a>
+      {{- else }}
+      {{/* Parent with no page of its own: the whole label opens the menu */}}
+      <button type="button" title="{{ or (T .Identifier) .Name | safeHTML }}"
+      aria-haspopup="true" aria-expanded="false"
+      class="hx-dropdown-trigger nav-link hx-flex hx-items-center hx-gap-1 {{ $activeClass }}"
+      >
+      {{ or (T .Identifier) .Name | safeHTML }}
+      <svg class="hx-dropdown-chevron" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"/></svg>
+      </button>
+      {{- end }}
       <ul class="hx-dropdown-menu" role="menu">
         {{- range .Children -}}
         {{- $childLink := .URL -}}

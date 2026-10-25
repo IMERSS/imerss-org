@@ -10,7 +10,7 @@ date: 2026-03-11
   </div>
 </div>
 
-**Your donation supports community-based biodiversity research and conservation throughout the Salish Sea bioregion! See below to donate online, or [contact us](mailto:info@immers.org?subject=Donation%20Opportunities) to discuss other ways to contribute!**
+**Your donation supports community-based biodiversity research and conservation throughout the Salish Sea bioregion! See below to donate online, or [contact us](mailto:info@imerss.org?subject=Donation%20Opportunities) to discuss other ways to contribute!**
 
 
 

@@ -28,4 +28,4 @@ Dana Ayotte | [Inclusive Design Research Centre](https://idrc.ocadu.ca/)
 
 [Vashon Nature Centre](https://vashonnaturecenter.org/)
 
-**We are grateful for funding provided by [Indigenous Watersheds Initiative](https://watershedsbc.ca/indigenous-watersheds-initiative/), the [Inclusive Design Research Centre](https://idrc.ocadu.ca/), and the [Southern Gulf Island Community Resource Centre](https://www.sgicommunityresources.ca/) in support of this ongoing ecocultural mapping initiative.**
+**We are grateful for funding provided by [Indigenous Watersheds Initiative](https://watershedsbc.ca/indigenous-watersheds-initiative/), the [Inclusive Design Research Centre](https://idrc.ocadu.ca/), and the [Southern Gulf Islands Community Resource Centre](https://www.sgicommunityresources.ca/) in support of this ongoing ecocultural mapping initiative.**

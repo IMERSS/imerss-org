@@ -34,7 +34,7 @@ date: 2026-03-02
 
 
 ## Eco-cultural Mapping {#ecocultural-mapping}
-We can enrich our understanding of the Salish Sea bioregion by weaving Indigenous and Western scientific place-based knowledge. In this spirit, eco-cultural mapping pilot project *Xetthecum* integrates biodiversity data with Indigenous knowledge and stories into an interactive map that harnesses design, data visualization and artistic practice to deepen place-based learning. *Xetthecum* is providing a basis for the work of our partners [Whiteswan Environmental](https://www.whiteswanenvironmental.org/) in mapping sites of ancestral significance across the region.
+We can enrich our understanding of the Salish Sea bioregion by weaving Indigenous and Western scientific place-based knowledge. In this spirit, the eco-cultural mapping pilot project *Xetthecum* integrates biodiversity data with Indigenous knowledge and stories into an interactive map that harnesses design, data visualization and artistic practice to deepen place-based learning. *Xetthecum* is providing a basis for the work of our partners [Whiteswan Environmental](https://www.whiteswanenvironmental.org/) in mapping sites of ancestral significance across the region.
 
 {{< cards >}}
    {{< card link="/projects/ecocultural-mapping" 
@@ -49,7 +49,7 @@ We can enrich our understanding of the Salish Sea bioregion by weaving Indigenou
 
 
 ## Long-term Community Ecological Research {#community-research}
-Communities have important roles to play in monitoring biodiversity in local places over the long term. This is the underpinning of long-term ecological research, and the inspiration behind the project Biogaliano, the seed from which IMERSS was formed. From [Sentinels of Change](https://sentinels.hakai.org/) dungeness crab monitoring, to our eelgrass and diatom community research, to marine lichens and local climate monitoring, we are fostering community-based efforts to better understand change in this bioregion. 
+Communities have important roles to play in monitoring biodiversity in local places over the long term. This is the underpinning of long-term ecological research, and the inspiration behind the project Biogaliano, the seed from which IMERSS was formed. From [Sentinels of Change](https://sentinels.hakai.org/) Dungeness crab monitoring, to our eelgrass and diatom community research, to local climate monitoring and [detecting species extirpation](https://imerss.github.io/detecting-local-extinction/docs/), we are fostering community-based efforts to better understand change in this bioregion. 
 
 {{< cards >}}
     {{< card link="/projects/sentinels-of-change" 
@@ -60,13 +60,9 @@ Communities have important roles to play in monitoring biodiversity in local pla
       title="Diatoms of the Salish Sea" 
       subtitle="An ongoing taxonomic inventory of the diatoms of the Salish Sea." 
       image="/projects/images/SHW-Stub-13-TM4000_1.4.jpg" >}}
-    {{< card link="/projects/maritime-lichens" 
-      title="Maritime Lichens of the Salish Sea" 
-      subtitle="Studying the diversity and distribution of maritime lichens in the Salish Sea." 
-      image="/projects/images/lichen_1.4.png">}}
     {{< card link="/projects/eelgrass" 
       title="Eelgrass Community Ecology" 
-      subtitle="A newly initiated research partnership between IMERSS and Parfrey Lab (UBC) exploring the microscopic worlds of eelgrass community ecology." 
+      subtitle="A research partnership between IMERSS and the Parfrey Lab (UBC) exploring the microscopic worlds of eelgrass community ecology." 
       image="/projects/images/Zostera_marina_1.4.jpg">}}
     {{< card link="/projects/microclimate-monitoring" 
       title="Microclimate Monitoring" 
@@ -93,7 +89,7 @@ Preserving the work of dedicated naturalists who have monitored the bioregion ov
 {{< cards >}}
   {{< card link="/projects/janszen-legacy" 
     title="Janszen Legacy Project" 
-    subtitle="Curating a critical baseline record of the vascular plant diversity of the Salish Sea–legacy of the late Harvey Janszen (July 11, 1946–May 10, 2021)." 
+    subtitle="Curating a critical baseline record of the vascular plant diversity of the Salish Sea—legacy of the late Harvey Janszen (July 11, 1946–May 10, 2021)." 
     image="/projects/images/HJ-236x250_1.4.png">}}
   {{< card link="/projects/biodiversity-informatics" 
     title="Biodiversity Informatics Working Group" 

@@ -1,0 +1,19 @@
+# Funders and in-kind supporters, shown in the footer of every project page.
+- name: Indigenous Watersheds Initiative
+  url: https://watershedsbc.ca/indigenous-watersheds-initiative/
+  logo: images/funders/indigenous-watersheds-initiative.png
+- name: Inclusive Design Research Centre
+  url: https://idrc.ocadu.ca/
+  logo: images/funders/idrc.png
+- name: Southern Gulf Islands Community Resource Centre
+  url: https://www.sgicommunityresources.ca/
+  logo: images/funders/sgi-community-resource-centre.png
+- name: BC Parks Park Enhancement Fund
+  url: https://bcparks.ca/
+  logo: images/funders/bc-parks.svg
+- name: Canadian Institute of Ecology and Evolution
+  url: https://www.ciee-icee.ca/
+  logo: images/funders/ciee.png
+- name: Hitachi High-Tech Canada
+  url: https://www.hitachi-hightech.com/ca/
+  logo: images/funders/hitachi.svg
