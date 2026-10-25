@@ -1,6 +1,7 @@
 ---
 title: Microclimate Monitoring
 date: '2026-03-05'
+funders: [bc-parks]
 ---
 
 # Microclimate Monitoring

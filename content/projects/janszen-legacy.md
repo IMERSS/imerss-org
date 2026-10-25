@@ -1,6 +1,7 @@
 ---
 title: Janszen Legacy Project
 date: '2026-03-05'
+funders: [ciee]
 ---
 
 # Janszen Legacy Project

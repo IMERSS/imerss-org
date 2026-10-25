@@ -1,6 +1,7 @@
 ---
 title: Xetthecum Ecocultural Mapping Pilot
 date: '2026-03-05'
+funders: [iwi, idrc, sgi-crc]
 ---
 
 # *Xetthecum* Ecocultural Mapping Pilot

@@ -1,6 +1,7 @@
 ---
 title: Microscopic Explorations
 date: '2026-03-05'
+funders: [hitachi]
 ---
 
 # Microscopic Explorations
