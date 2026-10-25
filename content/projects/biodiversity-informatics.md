@@ -30,4 +30,6 @@ Ben Keen | Open-source Developer, Bowen Island
 
 Find our open source datasets and code on the [IMERSS GitHub repo](https://imerss.github.io/imerss-bioinfo/)
 
+Explore [bioReportR](https://boninabox.geobon.org/tool-detail?id=251), our framework for regional biodiversity reporting and winner of the 2026 GBIF Ebbe Nielsen Challenge, on GEO BON's BON in a Box
+
 Subscribe to [Open Science for the Salish Sea](https://groups.io/g/open-science-for-the-salish-sea/) to contribute!

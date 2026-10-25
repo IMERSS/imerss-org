@@ -34,3 +34,5 @@ Marta Donovan, Jenifer Penny | [BC Conservation Data Centre](https://www2.gov.bc
 [Detecting species extirpation: protocol documentation and tutorial](https://imerss.github.io/detecting-local-extinction/docs/)
 
 Simon et al. (2025) [Read the article in *Plants, People, Planet*](https://doi.org/10.1002/ppp3.70130)
+
+[bioReportR on BON in a Box](https://boninabox.geobon.org/tool-detail?id=251): a regional biodiversity reporting framework that includes an extirpation-probability component
