@@ -4,9 +4,17 @@
   <ul class="imerss-logos-list">
     {{- range . }}
     {{- with index site.Data.logos . }}
+    {{- /* Size each logo to a similar visual weight: equal area, nudged down for dense marks and up for light ones */ -}}
+    {{- $ratio := float .ratio | default 2.5 -}}
+    {{- $weight := math.Pow (div 0.3 (float (.density | default 0.3))) 0.2 -}}
+    {{- $h := mul (math.Sqrt (div 8000.0 $ratio)) $weight -}}
+    {{- $h = math.Min $h 76.0 -}}
+    {{- $w := mul $h $ratio -}}
+    {{- if gt $w 200.0 }}{{ $w = 200.0 }}{{ $h = div $w $ratio }}{{ end -}}
     <li>
       <a href="{{ .url }}" target="_blank" rel="noreferrer" title="{{ .name }}">
-        <img src="{{ .logo | relURL }}" alt="{{ .name }}" loading="lazy">
+        <img src="{{ .logo | relURL }}" alt="{{ .name }}" loading="lazy"
+             style="--logo-w: {{ math.Round $w }}px; --logo-h: {{ math.Round $h }}px">
       </a>
     </li>
     {{- end }}

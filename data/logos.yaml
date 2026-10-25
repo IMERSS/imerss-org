@@ -1,75 +1,113 @@
 # Logos of funders and partners. List a project's logos by key in its
 # front matter (e.g. `logos: [bc-parks, uvic]`) to show them below
-# Partnerships on that project page.
+# Partnerships on that project page. `ratio` (width/height) and `density`
+# (share of the logo that is ink) let each logo be sized to a similar
+# visual weight.
 iwi:
   name: Indigenous Watersheds Initiative
   url: https://watershedsbc.ca/indigenous-watersheds-initiative/
   logo: images/logos/indigenous-watersheds-initiative.png
+  ratio: 2.424
+  density: 0.371
 idrc:
   name: Inclusive Design Research Centre
   url: https://idrc.ocadu.ca/
   logo: images/logos/idrc.png
+  ratio: 3.926
+  density: 0.313
 sgi-crc:
   name: Southern Gulf Islands Community Resource Centre
   url: https://www.sgicommunityresources.ca/
   logo: images/logos/sgi-community-resource-centre.png
+  ratio: 2.446
+  density: 0.328
 bc-parks:
   name: BC Parks Park Enhancement Fund
   url: https://bcparks.ca/
   logo: images/logos/bc-parks.svg
+  ratio: 3.274
+  density: 0.213
 ciee:
   name: Canadian Institute of Ecology and Evolution
   url: https://www.ciee-icee.ca/
   logo: images/logos/ciee.png
+  ratio: 4.713
+  density: 0.166
 hitachi:
   name: Hitachi High-Tech Canada
   url: https://www.hitachi-hightech.com/ca/
   logo: images/logos/hitachi.svg
+  ratio: 6.287
+  density: 0.502
 uvic:
   name: University of Victoria
   url: https://www.uvic.ca/
   logo: images/logos/uvic.svg
+  ratio: 3.479
+  density: 0.633
 ubc:
   name: University of British Columbia
   url: https://www.ubc.ca/
   logo: images/logos/ubc.svg
+  ratio: 4.785
+  density: 0.162
 whiteswan:
   name: Whiteswan Environmental
   url: https://www.whiteswanenvironmental.org/
   logo: images/logos/whiteswan-environmental.png
+  ratio: 2.158
+  density: 0.401
 vashon:
   name: Vashon Nature Center
   url: https://vashonnaturecenter.org/
   logo: images/logos/vashon-nature-center.png
+  ratio: 6.562
+  density: 0.194
 beaty:
   name: Beaty Biodiversity Museum
   url: https://beatymuseum.ubc.ca/
   logo: images/logos/beaty-biodiversity-museum.png
+  ratio: 6.316
+  density: 0.228
 bc-government:
   name: Government of British Columbia
   url: https://www2.gov.bc.ca/
   logo: images/logos/bc-government.svg
+  ratio: 3.839
+  density: 0.443
 rbcm:
   name: Royal BC Museum
   url: https://rbcm.ca/
   logo: images/logos/royal-bc-museum.svg
+  ratio: 2.297
+  density: 0.226
 lyackson:
   name: Lyackson First Nation
   url: https://lyackson.bc.ca/
   logo: images/logos/lyackson-first-nation.png
+  ratio: 1.0
+  density: 0.52
 galiano-conservancy:
   name: Galiano Conservancy Association
   url: https://galianoconservancy.ca/
   logo: images/logos/galiano-conservancy.svg
+  ratio: 3.054
+  density: 0.155
 valdes:
   name: Valdes Island Conservancy
   url: https://www.valdesconservancy.org/
   logo: images/logos/valdes-island-conservancy.png
+  ratio: 1.07
+  density: 0.157
 hakai:
   name: Hakai Institute
   url: https://hakai.org/
   logo: images/logos/hakai-institute.svg
+  ratio: 2.378
+  density: 0.284
 pnw-crab:
   name: Pacific Northwest Crab Research Group
   url: https://www.pnwcrab.com/
   logo: images/logos/pnw-crab-research-group.png
+  ratio: 1.556
+  density: 0.125

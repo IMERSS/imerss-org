@@ -687,50 +687,53 @@ html.dark .content .imerss-social-link:focus-visible {
 /* Funder and partner logos below Partnerships on project pages */
 .imerss-logos {
   clear: both;
-  margin-top: 3.5rem;
-  padding-top: 2rem;
+  margin-top: 3rem;
+  padding: 2.25rem 1rem 0.5rem;
   border-top: 1px solid var(--bs-border-color);
 }
 .imerss-logos-list {
   list-style: none;
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
+  max-width: 46rem;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 1rem;
+  align-items: center;
+  gap: 2rem 2.75rem;
 }
 .imerss-logos-list li {
   margin: 0;
-  flex: 0 1 190px;
 }
 .imerss-logos-list a {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 88px;
-  padding: 0.75rem 1rem;
-  background: #fff;
-  border: 1px solid var(--bs-border-color);
-  border-radius: 10px;
-  transition: box-shadow .2s ease, transform .2s ease;
+  display: block;
+  line-height: 0;
+  transition: opacity .2s ease;
 }
 .imerss-logos-list a:hover,
 .imerss-logos-list a:focus-visible {
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
-  transform: translateY(-1px);
+  opacity: 0.75;
 }
+.content .imerss-logos-list img,
 .imerss-logos-list img {
-  width: auto;
-  height: auto;
-  max-width: 100%;
-  max-height: 56px;
+  width: var(--logo-w);
+  height: var(--logo-h);
+  max-width: none;
   margin: 0;
   object-fit: contain;
 }
-html.dark html.dark .imerss-logos-list a { border-color: transparent; }
+/* Most logos are dark-on-light, so keep them on a light panel in dark mode */
+html.dark .imerss-logos {
+  background: #f8fafc;
+  border-top: 0;
+  border-radius: 12px;
+  padding: 2rem 1.5rem;
+}
 @media (max-width: 640px) {
-  .imerss-logos-list li { flex-basis: 100%; }
-  .imerss-logos-list a { height: 84px; padding: 0.75rem 1rem; }
-  .imerss-logos-list img { max-height: 52px; }
+  .imerss-logos-list { gap: 1.5rem 2rem; }
+  .content .imerss-logos-list img,
+  .imerss-logos-list img {
+    width: calc(var(--logo-w) * 0.78);
+    height: calc(var(--logo-h) * 0.78);
+  }
 }
