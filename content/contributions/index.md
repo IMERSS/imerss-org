@@ -46,8 +46,7 @@ The global biodiversity crisis stems from a cascading series of extirpations dri
       image="images/GPS_traces.jpg">}} 
 {{< /cards >}}
 
-Published open access in *Plants, People, Planet* (Simon et al. 2025). Our [extirpation analysis protocol](https://imerss.github.io/detecting-local-extinction/docs/) documents the workflow step by step, so others can apply the method to their own regions. Images: plant species targeted by our extirpation surveys on Galiano Island, and search effort mapped at Bellhouse Park (adapted from Figure 3; Simon et al. 2025, CC BY-NC 4.0).
-
+Published open access in *Plants, People, Planet* (Simon et al. 2025). Our [extirpation analysis protocol](https://imerss.github.io/detecting-local-extinction/docs/) documents the workflow step by step, so others can apply the method to their own regions.
 
 ### [Evidence of bumble bee extirpation and colonization: Galiano Island, British Columbia, Canada](https://doi.org/10.3955/046.096.0305)
 ![B.vosnesenskii](images/Bombus_vosnesenskii.png#floatleft)
