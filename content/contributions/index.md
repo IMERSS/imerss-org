@@ -31,7 +31,7 @@ Published in *Botany* (Jackman et al. 2025). Image: diatoms on young (left) to o
 <div style="clear: both;"></div>
 
 
-### Detecting extirpation: A localized approach to a global problem
+### [Detecting extirpation: A localized approach to a global problem](https://doi.org/10.1002/ppp3.70130)
 
 The global biodiversity crisis stems from a cascading series of extirpations driving species toward extinction. Addressing this crisis requires methods for early detection of extinction at local scales, where communities can mobilize conservation efforts. We present a method for the detection of species extirpation, harnessing biological specimens, community science, and targeted surveys. Our framework aligns with the International Union for Conservation of Nature (IUCN) extinction criteria and provides a practical means of testing the hypothesis of extinction. By streamlining the integration of data into a practical framework for inference, our approach overcomes key challenges in inferring local extinction risk, supporting efforts to detect and mitigate biodiversity loss.
 
@@ -46,7 +46,7 @@ The global biodiversity crisis stems from a cascading series of extirpations dri
       image="images/GPS_traces.jpg">}} 
 {{< /cards >}}
 
-Published open access in *Plants, People, Planet* (Simon et al. 2025). Images: plant species targeted by our extirpation surveys on Galiano Island, and search effort mapped at Bellhouse Park (adapted from Figure 3; Simon et al. 2025, CC BY-NC 4.0).
+Published open access in *Plants, People, Planet* (Simon et al. 2025). Our [extirpation analysis protocol](https://imerss.github.io/detecting-local-extinction/docs/) documents the workflow step by step, so others can apply the method to their own regions. Images: plant species targeted by our extirpation surveys on Galiano Island, and search effort mapped at Bellhouse Park (adapted from Figure 3; Simon et al. 2025, CC BY-NC 4.0).
 
 
 ### [Evidence of bumble bee extirpation and colonization: Galiano Island, British Columbia, Canada](https://doi.org/10.3955/046.096.0305)
