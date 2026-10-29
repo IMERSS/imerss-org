@@ -87,7 +87,7 @@ menu:
       weight: 2
     - identifier: atlas
       name: "Atlas"
-      url: "https://imerss.github.io/salish-sea-biodiversity/"
+      url: "https://salishseabiodiversity.org/"
       weight: 4
     - identifier: involved
       name: "Get Involved"
