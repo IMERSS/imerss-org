@@ -111,3 +111,20 @@ pnw-crab:
   logo: images/logos/pnw-crab-research-group.png
   ratio: 1.556
   density: 0.125
+sitka:
+  name: Sitka Foundation
+  url: https://sitkafoundation.org/
+  logo: images/logos/sitka-foundation.png
+  ratio: 1.161
+  density: 0.212
+nature-victoria:
+  name: Nature Victoria
+  url: https://naturevictoria.ca/
+  logo: images/logos/nature-victoria.png
+  ratio: 3.180
+  density: 0.444
+keefer:
+  name: Keefer Ecological Services Ltd.
+  logo: images/logos/keefer-ecological-services.png
+  ratio: 1.405
+  density: 0.320

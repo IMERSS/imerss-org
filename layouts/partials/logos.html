@@ -12,10 +12,15 @@
     {{- $w := mul $h $ratio -}}
     {{- if gt $w 200.0 }}{{ $w = 200.0 }}{{ $h = div $w $ratio }}{{ end -}}
     <li>
+      {{- /* Link the logo when the organisation has a url */}}
+      {{- if .url }}
       <a href="{{ .url }}" target="_blank" rel="noreferrer" title="{{ .name }}">
-        <img src="{{ .logo | relURL }}" alt="{{ .name }}" loading="lazy"
+      {{- end }}
+        <img src="{{ .logo | relURL }}" alt="{{ .name }}" title="{{ .name }}" loading="lazy"
              style="--logo-w: {{ math.Round $w }}px; --logo-h: {{ math.Round $h }}px">
+      {{- if .url }}
       </a>
+      {{- end }}
     </li>
     {{- end }}
     {{- end }}
