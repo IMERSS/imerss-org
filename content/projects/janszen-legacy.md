@@ -33,4 +33,4 @@ Linda Jennings | [University of British Columbia Herbarium](https://beatymuseum.
 
 # Funding
 
-We are grateful for funding provided by the [Capital Regional District](https://www.crd.ca/), the [Sitka Foundation](https://sitkafoundation.org/), [Nature Victoria](https://naturevictoria.ca/), and Keefer Ecological Services Ltd. in support of this project.
+We are grateful for funding provided by the [Capital Regional District](https://www.crd.ca/), the [Sitka Foundation](https://sitkafoundation.org/), [Nature Victoria](https://naturevictoria.ca/), and [Keefer Ecological Services Ltd.](https://keefereco.com/) in support of this project.
