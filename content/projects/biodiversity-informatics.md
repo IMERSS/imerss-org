@@ -34,7 +34,7 @@ We are grateful for funding provided by the [Capital Regional District](https://
 
 # Resources
 
-Explore our prototype [Salish Sea Biodiversity Atlas](https://www.salishseabiodiversity.org/)
+Explore our prototype [Salish Sea Biodiversity Atlas](https://www.salishseabiodiversity.org/)—created through our evolving framework, ‘bioReportR’
 
 Find our open source datasets and code on the [IMERSS GitHub repo](https://imerss.github.io/imerss-bioinfo/)
 
