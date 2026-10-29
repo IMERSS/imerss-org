@@ -49,7 +49,7 @@ We can enrich our understanding of the Salish Sea bioregion by weaving Indigenou
 
 
 ## Long-term Community Ecological Research {#community-research}
-Communities have important roles to play in monitoring biodiversity in local places over the long term. This is the underpinning of long-term ecological research, and the inspiration behind the project Biogaliano, the seed from which IMERSS was formed. From [Sentinels of Change](https://sentinels.hakai.org/) Dungeness crab monitoring, to our eelgrass and diatom community research, to local climate monitoring and [detecting species extirpation](https://imerss.github.io/detecting-local-extinction/docs/), we are fostering community-based efforts to better understand change in this bioregion. 
+Communities have important roles to play in monitoring biodiversity in local places over the long term. This is the foundation of long-term ecological research, and the inspiration behind the project Biogaliano, the seed from which IMERSS was formed. From [Sentinels of Change](https://sentinels.hakai.org/) Dungeness crab monitoring, to our eelgrass and diatom community research, to local climate monitoring and [detecting species extirpation](https://imerss.github.io/detecting-local-extinction/docs/), we are fostering community-based efforts to better understand change in this bioregion. 
 
 {{< cards >}}
     {{< card link="/projects/sentinels-of-change" 
