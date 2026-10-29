@@ -1,7 +1,7 @@
 ---
 title: "Diatoms of the Salish Sea"
 date: '2026-03-03'
-logos: [hitachi, uvic, ubc]
+logos: [hitachi, uvic, ubc, hakai]
 ---
 
 # Diatoms of the Salish Sea
@@ -25,6 +25,8 @@ Mark Webber, Arjan van Asselt | IMERSS Labs
 Elaine Humphrey | Advanced Microscopy Facility (UVic)
 
 Alice Chang | UBC
+
+[Hakai Institute](https://hakai.org/)
 
  
 # Resources 
