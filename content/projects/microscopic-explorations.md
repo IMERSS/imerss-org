@@ -1,7 +1,7 @@
 ---
 title: Microscopic Explorations
 date: '2026-03-05'
-logos: [hitachi, uvic]
+logos: [hitachi, uvic, galiano-conservancy]
 ---
 
 # Microscopic Explorations
@@ -23,5 +23,7 @@ Current status: Ongoing
 # Partnerships
 
 Elaine Humphrey | [UVic Advanced Microscopy Facility](https://www.uvic.ca/research/advancedmicroscopy/index.php)
+
+[Galiano Conservancy Association](https://galianoconservancy.ca/)
 
 **Thank you to [Hitachi High-Tech Canada Inc.](https://www.hitachi-hightech.com/ca/) for providing the Hitachi TM4000 Desktop Scanning Electron Microscope (SEM) for exploratory work on this project. We also thank the many experts who have guided us through these explorations.**
