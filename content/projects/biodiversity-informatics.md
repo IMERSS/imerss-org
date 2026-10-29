@@ -10,7 +10,7 @@ logos: [idrc, sitka, nature-victoria, keefer]
 
 IMERSS’ biodiversity informatics program is a collaboration among computer scientists and ecologists working to advance open-source technologies that support a community-based approach to biodiversity research and monitoring. Through our diverse projects, we are bootstrapping development of a biodiversity informatics framework to support our vision of creating a bioregional atlas for the Salish Sea.
 
-The latest outcome of this working group is the [Salish Sea Biodiversity Atlas](https://www.salishseabiodiversity.org/), an open platform for exploring the region’s biodiversity data and assessing biodiversity change.
+The latest outcome of this working group is our prototype [Salish Sea Biodiversity Atlas](https://www.salishseabiodiversity.org/), an open platform for exploring the region’s biodiversity data and assessing biodiversity change. The atlas is built with bioReportR, our evolving framework for regional biodiversity reporting. In 2026, bioReportR won the [GBIF Ebbe Nielsen Challenge](https://www.gbif.org/ebbe).
 
 # Status
 
@@ -20,7 +20,7 @@ Current status: Ongoing
 
 # Partnerships
 
-Antranig Basman, Andrew Simon | IMERSS
+Antranig Basman, Andrew Simon, Emma Menchions | IMERSS
 
 Colin Clark | [Inclusive Design Research Centre](https://idrc.ocadu.ca/)
 
@@ -34,7 +34,9 @@ We are grateful for funding provided by the [Capital Regional District](https://
 
 # Resources
 
-Explore our prototype [Salish Sea Biodiversity Atlas](https://www.salishseabiodiversity.org/), created with [bioReportR](https://boninabox.geobon.org/tool-detail?id=251): our evolving framework for regional biodiversity reporting, winner of the [2026 GBIF Ebbe Nielsen Challenge](https://www.gbif.org/ebbe), and available on GEO BON’s BON in a Box
+Explore our prototype [Salish Sea Biodiversity Atlas](https://www.salishseabiodiversity.org/)
+
+Find [bioReportR](https://boninabox.geobon.org/tool-detail?id=251) on GEO BON’s BON in a Box
 
 Find our open source datasets and code on the [IMERSS GitHub repo](https://imerss.github.io/imerss-bioinfo/)
 
