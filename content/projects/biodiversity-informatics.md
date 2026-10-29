@@ -34,10 +34,8 @@ We are grateful for funding provided by the [Capital Regional District](https://
 
 # Resources
 
-Explore our prototype [Salish Sea Biodiversity Atlas](https://www.salishseabiodiversity.org/)—created through our evolving framework, ‘bioReportR’
+Explore our prototype [Salish Sea Biodiversity Atlas](https://www.salishseabiodiversity.org/), created with [bioReportR](https://boninabox.geobon.org/tool-detail?id=251): our evolving framework for regional biodiversity reporting, winner of the [2026 GBIF Ebbe Nielsen Challenge](https://www.gbif.org/ebbe), and available on GEO BON’s BON in a Box
 
 Find our open source datasets and code on the [IMERSS GitHub repo](https://imerss.github.io/imerss-bioinfo/)
-
-Explore [bioReportR](https://boninabox.geobon.org/tool-detail?id=251), our framework for regional biodiversity reporting and winner of the 2026 GBIF Ebbe Nielsen Challenge, on GEO BON's BON in a Box
 
 Subscribe to [Open Science for the Salish Sea](https://groups.io/g/open-science-for-the-salish-sea/) to contribute!
