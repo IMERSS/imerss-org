@@ -96,9 +96,17 @@ menu:
     - identifier: donate
       name: Donate
       pageRef: /donate
-      weight: 6
-    - name: Search
       weight: 7
+    - identifier: docs
+      name: Docs
+      weight: 6
+    - identifier: extirpation-protocol
+      name: "Detecting Species Extirpation"
+      url: "https://imerss.github.io/detecting-local-extinction/docs/"
+      parent: docs
+      weight: 1
+    - name: Search
+      weight: 8
       params:
         type: search
 

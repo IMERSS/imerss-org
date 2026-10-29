@@ -1,6 +1,7 @@
 ---
 title: Microscopic Explorations
 date: '2026-03-05'
+logos: [hitachi, uvic]
 ---
 
 # Microscopic Explorations
@@ -23,4 +24,4 @@ Current status: Ongoing
 
 Elaine Humphrey | [UVic Advanced Microscopy Facility](https://www.uvic.ca/research/advancedmicroscopy/index.php)
 
-**Thank you to [Hitachi High-Tech Canada Inc.](https://www.hitachi-hightech.com/ca/) for providing the Hitachi TM4000 Desktop Scanning Electron Microcope (SEM) for exploratory work on this project. We also thank the many experts who have guided us through these exploratations.**
+**Thank you to [Hitachi High-Tech Canada Inc.](https://www.hitachi-hightech.com/ca/) for providing the Hitachi TM4000 Desktop Scanning Electron Microscope (SEM) for exploratory work on this project. We also thank the many experts who have guided us through these explorations.**

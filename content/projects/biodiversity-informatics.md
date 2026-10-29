@@ -1,13 +1,14 @@
 ---
 title: Biodiversity Informatics Working Group
 date: '2026-03-05'
+logos: [idrc]
 ---
 
 # Biodiversity Informatics Working Group
 
 ![bioinfo diagram](images/Bio_informatics.jpg#floatright)
 
-IMERSS’ biodiversity informatics program is a collaboration among computer scientists and ecologists working to advance open-source technologies that support a community-based approach to biodiversity research and monitoring. Through our diverse projects, we are bootstrapping development of a biodiversity informatics framework, to support our vision of creating a bioregional atlas for the Salish Sea.
+IMERSS’ biodiversity informatics program is a collaboration among computer scientists and ecologists working to advance open-source technologies that support a community-based approach to biodiversity research and monitoring. Through our diverse projects, we are bootstrapping development of a biodiversity informatics framework to support our vision of creating a bioregional atlas for the Salish Sea.
 
 # Status
 
@@ -28,5 +29,7 @@ Ben Keen | Open-source Developer, Bowen Island
 # Resources
 
 Find our open source datasets and code on the [IMERSS GitHub repo](https://imerss.github.io/imerss-bioinfo/)
+
+Explore [bioReportR](https://boninabox.geobon.org/tool-detail?id=251), our framework for regional biodiversity reporting and winner of the 2026 GBIF Ebbe Nielsen Challenge, on GEO BON's BON in a Box
 
 Subscribe to [Open Science for the Salish Sea](https://groups.io/g/open-science-for-the-salish-sea/) to contribute!

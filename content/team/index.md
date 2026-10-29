@@ -26,11 +26,11 @@ Emily enjoys sharing her love for nature with others and teaching science to fol
 #### Indigenous Creative Director
 ![Johnny](images/Johnny.png#floatleft)
 
-Johnny is an actor, scriptwriter, writer, carver, filmmaker, educator and activist. His mixed ancestry includes Coast Salish, Scottish, Haida and Hawaiian. Johnny, self identifies as a gay 2Spirit First Nations Interdisciplinary Artist.
+Johnny is an actor, scriptwriter, writer, carver, filmmaker, educator and activist. His mixed ancestry includes Coast Salish, Scottish, Haida and Hawaiian. Johnny self-identifies as a gay 2Spirit First Nations Interdisciplinary Artist.
 
 As a wood carver, Johnny’s highlight has been carving a twenty-foot figure called a Honouring Figure which is based on a traditional Coast Salish Welcome Figure.
 
-Johnny’s love of performing on stage began while dancing with Lynda Raino back in the 1980s in Victoria B.C. Johnny is currently co-writing a series of children’s books with his friend Jess Willows which has a focus on reconciliation and friendship. He is also of writing his first novel which explores his complicated mixed lineage, titled “Mixed-up!”.
+Johnny’s love of performing on stage began while dancing with Lynda Raino back in the 1980s in Victoria B.C. Johnny is currently co-writing a series of children’s books with his friend Jess Willows which has a focus on reconciliation and friendship. He is also writing his first novel which explores his complicated mixed lineage, titled “Mixed-up!”.
 
 Johnny considers himself a cross cultural bridge builder, a lifetime occupation he takes very seriously with a lot of humour!  Johnny joined the IMERSS Team in 2021. 
 
@@ -41,7 +41,7 @@ Johnny considers himself a cross cultural bridge builder, a lifetime occupation 
 #### Inclusive Designer
 ![Dana](images/Dana.png#floatleft)
 
-Dana Ayotte is a Senior Inclusive Designer at the [Inclusive Design Research Centre](https://idrc.ocadu.ca/) at OCAD University, where she collaborates with a team of designers, developers and others working to make digital technology more inclusive, equitable and accessible to all. After many visits to Galiano Island the natural beauty drew her in and she decided to stay for a while, during which time she volunteered with the Galiano Conservancy and was involved with the Biodiversity Galiano project. Learning about the local biodiversity fuelled her passion for ecological protection and restoration and so began her work on the [Xetthecum Digital Ecocultural Mapping](https://imerss.org/2019/01/01/ecocultural-mapping-pilot/) project where she contributes to the design of the mapping tool. Dana is an artist with a practice that often addresses themes of nature and the environment. Her work is interdisciplinary and includes printmaking, textiles, drawing and installation, with a focus on using repurposed materials and Earth-sustaining practices. Dana is grateful to live and work on the unceded territory of the Coast Salish peoples also known as Vancouver, BC. Most days she can be found walking her dog in the forest. She is honoured to be a part of the IMERSS community!
+Dana Ayotte is a Senior Inclusive Designer at the [Inclusive Design Research Centre](https://idrc.ocadu.ca/) at OCAD University, where she collaborates with a team of designers, developers and others working to make digital technology more inclusive, equitable and accessible to all. After many visits to Galiano Island the natural beauty drew her in and she decided to stay for a while, during which time she volunteered with the Galiano Conservancy and was involved with the Biodiversity Galiano project. Learning about the local biodiversity fuelled her passion for ecological protection and restoration and so began her work on the [Xetthecum Digital Ecocultural Mapping](/projects/ecocultural-mapping) project where she contributes to the design of the mapping tool. Dana is an artist with a practice that often addresses themes of nature and the environment. Her work is interdisciplinary and includes printmaking, textiles, drawing and installation, with a focus on using repurposed materials and Earth-sustaining practices. Dana is grateful to live and work on the unceded territory of the Coast Salish peoples also known as Vancouver, BC. Most days she can be found walking her dog in the forest. She is honoured to be a part of the IMERSS community!
 
 <div style="clear: both;"></div>
 
@@ -99,7 +99,7 @@ While pursuing her PhD in Biological Oceanography, Elaine was introduced to Elec
 
 The whole of the biological, chemical and physical world is of interest to Elaine, especially in how they overlap. She views the living world as an astonishing, wonderful place. One of her mandates is to get more science into elementary and middle schools and provide support to teachers—a large percentage of whom come from an arts background.
 
-Elaine’s master’s degree included a benthic meiofaunal investigation of an intertidal zone, and it was an open research project for Galiano. Sorting and identifying organisms is an intensive undertaking, and she needed help. What better way than to make it a citizen science project through IMERSS? She has ongoing research projects with IMERSS such as s study of the biodiversity of diatoms in the Salish Sea led by Mark Webber.
+Elaine’s master’s degree included a benthic meiofaunal investigation of an intertidal zone, and it was an open research project for Galiano. Sorting and identifying organisms is an intensive undertaking, and she needed help. What better way than to make it a citizen science project through IMERSS? She has ongoing research projects with IMERSS such as a study of the biodiversity of diatoms in the Salish Sea led by Mark Webber.
 
 <div style="clear: both;"></div>
 

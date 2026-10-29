@@ -20,25 +20,19 @@ date: 2026-02-02
       title="Subscribe to our Newsletter!" 
       subtitle="Sign up to receive our seasonal e-newsletter about projects, upcoming events, opportunities and more." 
       image="images/Field_research_1.4.jpg">}} 
-    {{< card link="mailto:info@immers.org?subject=Volunteer%20Opportunities"
+    {{< card link="mailto:info@imerss.org?subject=Volunteer%20Opportunities"
       title="Volunteer!" 
       subtitle="Dive in! Email us to find out about volunteer opportunities such as helping at events or joining one of our committees." 
       image="images/Hakai_1.4.jpg">}}
-    {{< card link="mailto:info@immers.org?subject=Internship%20Opportunities"
+    {{< card link="mailto:info@imerss.org?subject=Internship%20Opportunities"
       title="Become an Intern!" 
       subtitle="Email us to find out about upcoming internship opportunities." 
       image="images/Field_research_2_1.4.jpg">}} 
-    {{< card link="mailto:info@immers.org?subject=Collaboration%20Opportunities"
+    {{< card link="mailto:info@imerss.org?subject=Collaboration%20Opportunities"
       title="Project Collaborations" 
       subtitle="We are happy to connect about possible collaborations. Please reach out!" 
       image="images/Pseudotsuga_3_1.4.jpg">}}
-    <div class="social-card">
-      {{< card link="https://instagram.com/imerss_labs"
-        title="Follow us on Instagram!" 
-        image="images/Instagram_icon.png" >}}
-      {{< card link="https://www.facebook.com/IMERSS.labs/"
-        title="Follow us on Facebook!" 
-        image="images/facebook-icon.png" >}}
-    </div> 
 {{< /cards >}}
+
+{{< social-links >}}
 
