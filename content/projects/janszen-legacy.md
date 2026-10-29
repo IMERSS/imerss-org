@@ -1,7 +1,7 @@
 ---
 title: Janszen Legacy Project
 date: '2026-03-05'
-logos: [ciee, rbcm, beaty, sitka, nature-victoria, keefer]
+logos: [ciee, rbcm, beaty, sitka, nature-victoria, keefer, crd]
 ---
 
 # Janszen Legacy Project

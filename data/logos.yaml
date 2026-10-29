@@ -129,3 +129,9 @@ keefer:
   logo: images/logos/keefer-ecological-services.png
   ratio: 1.405
   density: 0.320
+crd:
+  name: Capital Regional District
+  url: https://www.crd.ca/
+  logo: images/logos/capital-regional-district.png
+  ratio: 2.773
+  density: 0.280

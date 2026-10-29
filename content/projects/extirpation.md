@@ -12,7 +12,7 @@ This project aimed to establish a novel protocol for the detection of species ex
 
 This protocol is now published in [*Plants, People, Planet*](https://doi.org/10.1002/ppp3.70130), with a step-by-step walk-through of the analysis in our [protocol documentation](https://imerss.github.io/detecting-local-extinction/docs/).
 
-Elements of this protocol are now being integrated into the [Salish Sea biodiversity atlas](https://imerss.github.io/salish-sea-biodiversity/) we are developing to support the assessment of biodiversity change across the region.
+Elements of this protocol are now being integrated into the [Salish Sea biodiversity atlas](https://salishseabiodiversity.org/) we are developing to support the assessment of biodiversity change across the region.
 
 # Status
 
