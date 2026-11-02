@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IMERSS – Projects</title>
-    <link>/projects/</link>
+    <link>https://imerss.org/projects/</link>
     <description>Recent content in Projects on IMERSS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0000</lastBuildDate>
     
-      <atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://imerss.org/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,9 +17,9 @@
     
     <item>
       <title>Biodiversity Galiano Island</title>
-      <link>/projects/biodiversity-galiano/</link>
+      <link>https://imerss.org/projects/biodiversity-galiano/</link>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>/projects/biodiversity-galiano/</guid>
+      <guid>https://imerss.org/projects/biodiversity-galiano/</guid>
       <description>
         
         
@@ -34,9 +34,9 @@
     
     <item>
       <title>Biodiversity Informatics Working Group</title>
-      <link>/projects/biodiversity-informatics/</link>
+      <link>https://imerss.org/projects/biodiversity-informatics/</link>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>/projects/biodiversity-informatics/</guid>
+      <guid>https://imerss.org/projects/biodiversity-informatics/</guid>
       <description>
         
         
@@ -46,7 +46,7 @@
 &lt;p&gt;The latest outcome of this working group is our prototype &lt;a href=&#34;https://salishseabiodiversity.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Salish Sea Biodiversity Atlas&lt;/a&gt;, an open platform for exploring the region’s biodiversity data and assessing biodiversity change. In 2026, bioReportR, the framework behind the atlas, won the &lt;a href=&#34;https://www.gbif.org/ebbe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GBIF Ebbe Nielsen Challenge&lt;/a&gt;.&lt;/p&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated January 2019&lt;/p&gt;
 &lt;p&gt;Current status: Ongoing&lt;/p&gt;
-&lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;Antranig Basman, Andrew Simon, Emma Menchions | IMERSS&lt;/p&gt;
+&lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;Antranig Basman, Emma Menchions, Andrew Simon | IMERSS&lt;/p&gt;
 &lt;p&gt;Colin Clark | &lt;a href=&#34;https://idrc.ocadu.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Inclusive Design Research Centre&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Charlie Gibbs, Donna Gibbs | &lt;a href=&#34;https://biogaliano.org/pacific-marine-life-survey-team/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pacific Marine Life Surveys&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Ben Keen | Open-source Developer, Bowen Island&lt;/p&gt;
@@ -60,9 +60,9 @@
     
     <item>
       <title>Eelgrass Community Ecology</title>
-      <link>/projects/eelgrass/</link>
+      <link>https://imerss.org/projects/eelgrass/</link>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>/projects/eelgrass/</guid>
+      <guid>https://imerss.org/projects/eelgrass/</guid>
       <description>
         
         
@@ -74,8 +74,8 @@
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated September 2020&lt;/p&gt;
 &lt;p&gt;Current status: Complete&lt;/p&gt;
 &lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;Arjan van Asselt, Mark Webber | IMERSS Labs&lt;/p&gt;
-&lt;p&gt;Emily Adamczyk, Andrea Jackman, Laura Parfrey, Siobhan Schenk | &lt;a href=&#34;https://www.zoology.ubc.ca/~parfrey/parfrey_lab/research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Parfrey Lab (UBC)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Elaine Humphrey | &lt;a href=&#34;https://www.uvic.ca/research/advancedmicroscopy/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Microscopy Facility (UVic)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Emily Adamczyk, Andrea Jackman, Laura Parfrey, Siobhan Schenk | &lt;a href=&#34;https://www.zoology.ubc.ca/~parfrey/parfrey_lab/research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Parfrey Lab (UBC)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Thank you to &lt;a href=&#34;https://www.hitachi-hightech.com/ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hitachi High-Tech Canada Inc.&lt;/a&gt; for providing the Hitachi TM4000 Desktop Scanning Electron Microscope (SEM) for exploratory work on this project.&lt;/p&gt;
 
       </description>
@@ -83,9 +83,9 @@
     
     <item>
       <title>Janszen Legacy Project</title>
-      <link>/projects/janszen-legacy/</link>
+      <link>https://imerss.org/projects/janszen-legacy/</link>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>/projects/janszen-legacy/</guid>
+      <guid>https://imerss.org/projects/janszen-legacy/</guid>
       <description>
         
         
@@ -96,10 +96,13 @@
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated September 2023&lt;/p&gt;
 &lt;p&gt;Current status: Ongoing&lt;/p&gt;
 &lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;Andrew Simon | IMERSS&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.ciee-icee.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Canadian Institute of Ecology and Evolution&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Diane Srivastava | &lt;a href=&#34;https://www.ciee-icee.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Canadian Institute of Ecology and Evolution&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Paige Erickson-Mcgee | &lt;a href=&#34;https://hat.bc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Habitat Acquisition Trust&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Heidi Guest and Ken Marr | &lt;a href=&#34;https://rbcm.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Royal British Columbia Museum&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cara Gibson | &lt;a href=&#34;https://www.swanlake.bc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Swan Lake Nature Sanctuary&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Linda Jennings | &lt;a href=&#34;https://beatymuseum.ubc.ca/research-2/collections/herbarium/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of British Columbia Herbarium&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We thank Robin Bradley, Cindy Gao, Emma Menchions, Benjamin Mumford, and Lindsay Trottier for their contributions to this project as Living Data Project interns supported by the Canadian Institute of Ecology and Evolution. Many thanks to Sandra Emry, Gracielle Higino, David Hunt, Mike Lavender, Pierre Rogy, Diane Srivastava—and the rest of the CIEE team—for their ongoing support of this project.&lt;/p&gt;
+&lt;p&gt;We also thank Matt Fairbarns, Pam Janszen, Frank Lomer, Terry Ludwar, Andy MacKinnon, Adam Martin, James Miskelly, and Kristen Miskelly for their contributions to this project.&lt;/p&gt;
 &lt;h1&gt;Funding&lt;/h1&gt;&lt;p&gt;We are grateful for funding provided by the &lt;a href=&#34;https://www.crd.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Capital Regional District&lt;/a&gt;, the &lt;a href=&#34;https://sitkafoundation.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sitka Foundation&lt;/a&gt;, &lt;a href=&#34;https://naturevictoria.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nature Victoria&lt;/a&gt;, and &lt;a href=&#34;https://keefereco.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keefer Ecological Services Ltd.&lt;/a&gt; in support of this project.&lt;/p&gt;
 
       </description>
@@ -107,9 +110,9 @@
     
     <item>
       <title>Microclimate Monitoring</title>
-      <link>/projects/microclimate-monitoring/</link>
+      <link>https://imerss.org/projects/microclimate-monitoring/</link>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>/projects/microclimate-monitoring/</guid>
+      <guid>https://imerss.org/projects/microclimate-monitoring/</guid>
       <description>
         
         
@@ -120,10 +123,10 @@
 &lt;p&gt;Current status: Ongoing&lt;/p&gt;
 &lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;Andrew Simon, Kevin Toomer | IMERSS Labs&lt;/p&gt;
 &lt;p&gt;Heather Klassen | &lt;a href=&#34;https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/forests&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BC Ministry of Forests&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Ed Wiebe | &lt;a href=&#34;https://www.uvic.ca/science/seos/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UVic Earth &amp;amp; Ocean Sciences&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Dan Moore | &lt;a href=&#34;https://geog.ubc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UBC Geography&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://lyackson.bc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lyackson First Nation&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://galianoconservancy.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Galiano Conservancy Association&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lyackson.bc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lyackson First Nation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dan Moore | &lt;a href=&#34;https://geog.ubc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UBC Geography&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ed Wiebe | &lt;a href=&#34;https://www.uvic.ca/science/seos/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UVic Earth &amp;amp; Ocean Sciences&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.valdesconservancy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Valdes Island Conservancy&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We are grateful to the &lt;a href=&#34;http://bcparks.ca/partnerships/pef.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BC Parks Park Enhancement Fund&lt;/a&gt; for supporting this research project.&lt;/p&gt;
 
@@ -132,9 +135,9 @@
     
     <item>
       <title>Microscopic Explorations</title>
-      <link>/projects/microscopic-explorations/</link>
+      <link>https://imerss.org/projects/microscopic-explorations/</link>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>/projects/microscopic-explorations/</guid>
+      <guid>https://imerss.org/projects/microscopic-explorations/</guid>
       <description>
         
         
@@ -144,8 +147,8 @@
 &lt;p&gt;Contact Dr. Elaine Humphrey at &lt;a href=&#34;mailto:ech@uvic.ca&#34; &gt;ech@uvic.ca&lt;/a&gt; to bring the traveling microscopic lab to your community!&lt;/p&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated July 2020&lt;/p&gt;
 &lt;p&gt;Current status: Ongoing&lt;/p&gt;
-&lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;Elaine Humphrey | &lt;a href=&#34;https://www.uvic.ca/research/advancedmicroscopy/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UVic Advanced Microscopy Facility&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://galianoconservancy.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Galiano Conservancy Association&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://galianoconservancy.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Galiano Conservancy Association&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Elaine Humphrey | &lt;a href=&#34;https://www.uvic.ca/research/advancedmicroscopy/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UVic Advanced Microscopy Facility&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Thank you to &lt;a href=&#34;https://www.hitachi-hightech.com/ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hitachi High-Tech Canada Inc.&lt;/a&gt; for providing the Hitachi TM4000 Desktop Scanning Electron Microscope (SEM) for exploratory work on this project. We also thank the many experts who have guided us through these explorations.&lt;/p&gt;
 
       </description>
@@ -153,9 +156,9 @@
     
     <item>
       <title>Operation GaliWatch</title>
-      <link>/projects/operation-galiwatch/</link>
+      <link>https://imerss.org/projects/operation-galiwatch/</link>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>/projects/operation-galiwatch/</guid>
+      <guid>https://imerss.org/projects/operation-galiwatch/</guid>
       <description>
         
         
@@ -170,9 +173,9 @@
     
     <item>
       <title>Xetthecum Ecocultural Mapping Pilot</title>
-      <link>/projects/ecocultural-mapping/</link>
+      <link>https://imerss.org/projects/ecocultural-mapping/</link>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>/projects/ecocultural-mapping/</guid>
+      <guid>https://imerss.org/projects/ecocultural-mapping/</guid>
       <description>
         
         
@@ -185,10 +188,10 @@
 &lt;/div&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated October 2020&lt;/p&gt;
 &lt;p&gt;Current status: Ongoing&lt;/p&gt;
-&lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;Jeannine Georgeson, Antranig Basman, Andrew Simon | IMERSS&lt;/p&gt;
+&lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;Antranig Basman, Jeannine Georgeson, Andrew Simon | IMERSS&lt;/p&gt;
 &lt;p&gt;Dana Ayotte | &lt;a href=&#34;https://idrc.ocadu.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Inclusive Design Research Centre&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.whiteswanenvironmental.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Whiteswan Environmental&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://vashonnaturecenter.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vashon Nature Centre&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.whiteswanenvironmental.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Whiteswan Environmental&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We are grateful for funding provided by &lt;a href=&#34;https://watershedsbc.ca/indigenous-watersheds-initiative/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Indigenous Watersheds Initiative&lt;/a&gt;, the &lt;a href=&#34;https://idrc.ocadu.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Inclusive Design Research Centre&lt;/a&gt;, the &lt;a href=&#34;https://www.sgicommunityresources.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Southern Gulf Islands Community Resource Centre&lt;/a&gt;, and the &lt;a href=&#34;https://www.crd.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Capital Regional District&lt;/a&gt; in support of this ongoing ecocultural mapping initiative.&lt;/p&gt;
 &lt;h1&gt;Resources&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://imerss.github.io/xetthecum-documentation/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xetthecum: a learning journey&lt;/a&gt;: documentation of the &lt;em&gt;Xetthecum&lt;/em&gt; ecocultural mapping pilot&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://imerss.github.io/xetthecum-storymap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xetthecum Storymap&lt;/a&gt;: explore the species and communities of Xetthecum, and the cultural values that weave them all together&lt;/p&gt;
@@ -198,9 +201,9 @@
     
     <item>
       <title>20/20 Vision on Plant Extirpation</title>
-      <link>/projects/extirpation/</link>
+      <link>https://imerss.org/projects/extirpation/</link>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>/projects/extirpation/</guid>
+      <guid>https://imerss.org/projects/extirpation/</guid>
       <description>
         
         
@@ -211,9 +214,9 @@
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated January 2020&lt;/p&gt;
 &lt;p&gt;Current status: Complete&lt;/p&gt;
 &lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;Andrew Simon | IMERSS Labs&lt;/p&gt;
+&lt;p&gt;Marta Donovan, Jenifer Penny | &lt;a href=&#34;https://www2.gov.bc.ca/gov/content/environment/plants-animals-ecosystems/conservation-data-centre&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BC Conservation Data Centre&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Quentin Cronk, Linda Jennings | &lt;a href=&#34;https://beatymuseum.ubc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beaty Biodiversity Museum&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Harvey Janszen, Caitlin Robinson, Alexander Wright&lt;/p&gt;
-&lt;p&gt;Marta Donovan, Jenifer Penny | &lt;a href=&#34;https://www2.gov.bc.ca/gov/content/environment/plants-animals-ecosystems/conservation-data-centre&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BC Conservation Data Centre&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;Resources&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://imerss.github.io/detecting-local-extinction/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Detecting species extirpation: protocol documentation and tutorial&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Simon et al. (2025) &lt;a href=&#34;https://doi.org/10.1002/ppp3.70130&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the article in &lt;em&gt;Plants, People, Planet&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://boninabox.geobon.org/tool-detail?id=251&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bioReportR on BON in a Box&lt;/a&gt;: a regional biodiversity reporting framework that includes an extirpation-probability component&lt;/p&gt;
@@ -223,9 +226,9 @@
     
     <item>
       <title>Diatoms of the Salish Sea</title>
-      <link>/projects/diatoms/</link>
+      <link>https://imerss.org/projects/diatoms/</link>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>/projects/diatoms/</guid>
+      <guid>https://imerss.org/projects/diatoms/</guid>
       <description>
         
         
@@ -234,10 +237,10 @@
 &lt;p&gt;Diatoms are a major group of photosynthetic micro-algae living in marine and freshwater environments, which provide vast quantities of oxygen, food and nutrients for a wide range of organisms. The last regional diatom inventories were undertaken by Cupp (1943) for the West Coast of North America and Shim (1976) for the Georgia Strait, to the exclusion of many benthic and epiphytic species. This project aims to establish an updated taxonomic inventory of diatoms known to the Salish Sea, including detailed descriptions, discussions, observations and references. We apply light microscopy and Scanning Electron Microscopy (SEM) to determine species based on key taxonomic features. To extend this work, we are also exploring the application of next-generation sequencing to barcode diatoms and promote community access to genomics research. In 2026, we published an &lt;a href=&#34;https://doi.org/10.3897/BDJ.14.e189060&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;annotated checklist of 924 diatom taxa known to the Salish Sea&lt;/a&gt; in the open access &lt;em&gt;Biodiversity Data Journal&lt;/em&gt;, including 42 species newly reported for the region.&lt;/p&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated September 2012&lt;/p&gt;
 &lt;p&gt;Current status: Ongoing&lt;/p&gt;
-&lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;Mark Webber, Arjan van Asselt | IMERSS Labs&lt;/p&gt;
+&lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;Arjan van Asselt, Mark Webber | IMERSS Labs&lt;/p&gt;
 &lt;p&gt;Elaine Humphrey | Advanced Microscopy Facility (UVic)&lt;/p&gt;
-&lt;p&gt;Alice Chang | UBC&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://hakai.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hakai Institute&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Alice Chang | UBC&lt;/p&gt;
 &lt;h1&gt;Resources&lt;/h1&gt;&lt;p&gt;Webber et al. (2026) &lt;a href=&#34;https://doi.org/10.3897/BDJ.14.e189060&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diatoms (Bacillariophyta) of the Salish Sea, Northeast Pacific: annotated checklist and new species reports&lt;/a&gt;. &lt;em&gt;Biodiversity Data Journal&lt;/em&gt; 14: e189060.&lt;/p&gt;
 &lt;p&gt;Jackman et al. (2025) &lt;a href=&#34;https://doi.org/10.1139/cjb-2024-0100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Integrating DNA sequencing and morphological identification enhances understanding of epiphytic diatom diversity and ecology&lt;/a&gt;. &lt;em&gt;Botany&lt;/em&gt; 103: 1–14.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.inaturalist.org/observations?place_id=any&amp;amp;subview=grid&amp;amp;taxon_id=123880&amp;amp;user_id=lamamark&amp;amp;verifiable=any&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Salish Sea Diatoms on iNaturalist&lt;/a&gt;&lt;/p&gt;
@@ -248,9 +251,9 @@
     
     <item>
       <title>Sentinels of Change</title>
-      <link>/projects/sentinels-of-change/</link>
+      <link>https://imerss.org/projects/sentinels-of-change/</link>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>/projects/sentinels-of-change/</guid>
+      <guid>https://imerss.org/projects/sentinels-of-change/</guid>
       <description>
         
         
@@ -258,9 +261,9 @@
 &lt;p&gt;IMERSS is one of several Salish Sea partners for the Hakai Institute-led Sentinels of Change Dungeness crab larvae light trap. It is a decade-long study focusing on understanding the population fluctuations of Dungeness crab, from larvae to adult stages. By improving our knowledge, it can help provide information to managers and decision makers to help sustain healthy ecosystems and communities. &lt;a href=&#34;https://sentinels.hakai.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learn more about the project and other project partners&lt;/a&gt;.&lt;/p&gt;
 &lt;h1&gt;Status&lt;/h1&gt;&lt;p&gt;Project Initiated 2021&lt;/p&gt;
 &lt;p&gt;Current status: Ongoing&lt;/p&gt;
-&lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://hakai.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hakai Institute&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Partnerships&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://galianoconservancy.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Galiano Conservancy Association&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hakai.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hakai Institute&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.pnwcrab.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pacific Northwest Crab Research Group&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://galianoconservancy.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Galiano Conservancy Association&lt;/a&gt;&lt;/p&gt;
 
       </description>
     </item>
