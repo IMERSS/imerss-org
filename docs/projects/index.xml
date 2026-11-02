@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IMERSS – Projects</title>
-    <link>https://imerss.org/projects/</link>
+    <link>/projects/</link>
     <description>Recent content in Projects on IMERSS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0000</lastBuildDate>
     
-      <atom:link href="https://imerss.org/projects/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,9 +17,9 @@
     
     <item>
       <title>Biodiversity Galiano Island</title>
-      <link>https://imerss.org/projects/biodiversity-galiano/</link>
+      <link>/projects/biodiversity-galiano/</link>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://imerss.org/projects/biodiversity-galiano/</guid>
+      <guid>/projects/biodiversity-galiano/</guid>
       <description>
         
         
@@ -34,9 +34,9 @@
     
     <item>
       <title>Biodiversity Informatics Working Group</title>
-      <link>https://imerss.org/projects/biodiversity-informatics/</link>
+      <link>/projects/biodiversity-informatics/</link>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://imerss.org/projects/biodiversity-informatics/</guid>
+      <guid>/projects/biodiversity-informatics/</guid>
       <description>
         
         
@@ -60,9 +60,9 @@
     
     <item>
       <title>Eelgrass Community Ecology</title>
-      <link>https://imerss.org/projects/eelgrass/</link>
+      <link>/projects/eelgrass/</link>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://imerss.org/projects/eelgrass/</guid>
+      <guid>/projects/eelgrass/</guid>
       <description>
         
         
@@ -83,9 +83,9 @@
     
     <item>
       <title>Janszen Legacy Project</title>
-      <link>https://imerss.org/projects/janszen-legacy/</link>
+      <link>/projects/janszen-legacy/</link>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://imerss.org/projects/janszen-legacy/</guid>
+      <guid>/projects/janszen-legacy/</guid>
       <description>
         
         
@@ -103,17 +103,16 @@
 &lt;p&gt;Linda Jennings | &lt;a href=&#34;https://beatymuseum.ubc.ca/research-2/collections/herbarium/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of British Columbia Herbarium&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We thank Robin Bradley, Cindy Gao, Emma Menchions, Benjamin Mumford, and Lindsay Trottier for their contributions to this project as Living Data Project interns supported by the Canadian Institute of Ecology and Evolution. Many thanks to Sandra Emry, Gracielle Higino, David Hunt, Mike Lavender, Pierre Rogy, Diane Srivastava—and the rest of the CIEE team—for their ongoing support of this project.&lt;/p&gt;
 &lt;p&gt;We also thank Matt Fairbarns, Pam Janszen, Frank Lomer, Terry Ludwar, Andy MacKinnon, Adam Martin, James Miskelly, and Kristen Miskelly for their contributions to this project.&lt;/p&gt;
-&lt;h1&gt;Funding&lt;/h1&gt;&lt;p&gt;We gratefully acknowledge the &lt;a href=&#34;https://www.ciee-icee.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Canadian Institute of Ecology and Evolution&lt;/a&gt;’s &lt;a href=&#34;https://www.ciee-icee.ca/ldp.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Living Data Project&lt;/a&gt; for supporting the interns who contributed to this project.&lt;/p&gt;
-&lt;p&gt;We are grateful for funding provided by the &lt;a href=&#34;https://www.crd.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Capital Regional District&lt;/a&gt;, the &lt;a href=&#34;https://sitkafoundation.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sitka Foundation&lt;/a&gt;, &lt;a href=&#34;https://naturevictoria.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nature Victoria&lt;/a&gt;, and &lt;a href=&#34;https://keefereco.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keefer Ecological Services Ltd.&lt;/a&gt; in support of this project.&lt;/p&gt;
+&lt;h1&gt;Funding&lt;/h1&gt;&lt;p&gt;We gratefully acknowledge the &lt;a href=&#34;https://www.ciee-icee.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Canadian Institute of Ecology and Evolution&lt;/a&gt;’s &lt;a href=&#34;https://www.ciee-icee.ca/ldp.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Living Data Project&lt;/a&gt; for supporting the interns who contributed to this project. We are grateful for funding provided by the &lt;a href=&#34;https://www.crd.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Capital Regional District&lt;/a&gt;, the &lt;a href=&#34;https://sitkafoundation.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sitka Foundation&lt;/a&gt;, &lt;a href=&#34;https://naturevictoria.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nature Victoria&lt;/a&gt;, and &lt;a href=&#34;https://keefereco.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keefer Ecological Services Ltd.&lt;/a&gt; in support of this project.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Microclimate Monitoring</title>
-      <link>https://imerss.org/projects/microclimate-monitoring/</link>
+      <link>/projects/microclimate-monitoring/</link>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://imerss.org/projects/microclimate-monitoring/</guid>
+      <guid>/projects/microclimate-monitoring/</guid>
       <description>
         
         
@@ -136,9 +135,9 @@
     
     <item>
       <title>Microscopic Explorations</title>
-      <link>https://imerss.org/projects/microscopic-explorations/</link>
+      <link>/projects/microscopic-explorations/</link>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://imerss.org/projects/microscopic-explorations/</guid>
+      <guid>/projects/microscopic-explorations/</guid>
       <description>
         
         
@@ -157,9 +156,9 @@
     
     <item>
       <title>Operation GaliWatch</title>
-      <link>https://imerss.org/projects/operation-galiwatch/</link>
+      <link>/projects/operation-galiwatch/</link>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://imerss.org/projects/operation-galiwatch/</guid>
+      <guid>/projects/operation-galiwatch/</guid>
       <description>
         
         
@@ -174,9 +173,9 @@
     
     <item>
       <title>Xetthecum Ecocultural Mapping Pilot</title>
-      <link>https://imerss.org/projects/ecocultural-mapping/</link>
+      <link>/projects/ecocultural-mapping/</link>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://imerss.org/projects/ecocultural-mapping/</guid>
+      <guid>/projects/ecocultural-mapping/</guid>
       <description>
         
         
@@ -202,9 +201,9 @@
     
     <item>
       <title>20/20 Vision on Plant Extirpation</title>
-      <link>https://imerss.org/projects/extirpation/</link>
+      <link>/projects/extirpation/</link>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://imerss.org/projects/extirpation/</guid>
+      <guid>/projects/extirpation/</guid>
       <description>
         
         
@@ -227,9 +226,9 @@
     
     <item>
       <title>Diatoms of the Salish Sea</title>
-      <link>https://imerss.org/projects/diatoms/</link>
+      <link>/projects/diatoms/</link>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://imerss.org/projects/diatoms/</guid>
+      <guid>/projects/diatoms/</guid>
       <description>
         
         
@@ -252,9 +251,9 @@
     
     <item>
       <title>Sentinels of Change</title>
-      <link>https://imerss.org/projects/sentinels-of-change/</link>
+      <link>/projects/sentinels-of-change/</link>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://imerss.org/projects/sentinels-of-change/</guid>
+      <guid>/projects/sentinels-of-change/</guid>
       <description>
         
         
