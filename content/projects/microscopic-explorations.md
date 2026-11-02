@@ -26,4 +26,4 @@ Elaine Humphrey | [UVic Advanced Microscopy Facility](https://www.uvic.ca/resear
 
 [Galiano Conservancy Association](https://galianoconservancy.ca/)
 
-**Thank you to [Hitachi High-Tech Canada Inc.](https://www.hitachi-hightech.com/ca/) for providing the Hitachi TM4000 Desktop Scanning Electron Microscope (SEM) for exploratory work on this project. We also thank the many experts who have guided us through these explorations.**
+Thank you to [Hitachi High-Tech Canada Inc.](https://www.hitachi-hightech.com/ca/) for providing the Hitachi TM4000 Desktop Scanning Electron Microscope (SEM) for exploratory work on this project. We also thank the many experts who have guided us through these explorations.

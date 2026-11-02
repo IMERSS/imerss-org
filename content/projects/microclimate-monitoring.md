@@ -32,4 +32,4 @@ Dan Moore | [UBC Geography](https://geog.ubc.ca/)
 
 [Valdes Island Conservancy](https://www.valdesconservancy.org/)
 
-**We are grateful to the [BC Parks Park Enhancement Fund](http://bcparks.ca/partnerships/pef.html) for supporting this research project.**
+We are grateful to the [BC Parks Park Enhancement Fund](http://bcparks.ca/partnerships/pef.html) for supporting this research project.

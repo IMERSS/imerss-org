@@ -33,4 +33,4 @@ Emily Adamczyk, Andrea Jackman, Laura Parfrey, Siobhan Schenk | [Parfrey Lab (UB
 Elaine Humphrey | [Advanced Microscopy Facility (UVic)](https://www.uvic.ca/research/advancedmicroscopy/index.php)
 
 
-**Thank you to [Hitachi High-Tech Canada Inc.](https://www.hitachi-hightech.com/ca/) for providing the Hitachi TM4000 Desktop Scanning Electron Microscope (SEM) for exploratory work on this project.**
+Thank you to [Hitachi High-Tech Canada Inc.](https://www.hitachi-hightech.com/ca/) for providing the Hitachi TM4000 Desktop Scanning Electron Microscope (SEM) for exploratory work on this project.
