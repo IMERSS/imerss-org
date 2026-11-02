@@ -23,7 +23,7 @@ Current status: Ongoing
 
 Andrew Simon | IMERSS
 
-[Canadian Institute of Ecology and Evolution](https://www.ciee-icee.ca/)
+Diane Srivastava | [Canadian Institute of Ecology and Evolution](https://www.ciee-icee.ca/)
 
 Heidi Guest and Ken Marr | [Royal British Columbia Museum](https://rbcm.ca/)
 
