@@ -51,9 +51,9 @@ Published open access in *Plants, People, Planet* (Simon et al. 2025). Our [exti
 ### [Evidence of bumble bee extirpation and colonization: Galiano Island, British Columbia, Canada](https://doi.org/10.3955/046.096.0305)
 ![B.vosnesenskii](images/Bombus_vosnesenskii.png#floatleft)
 
-Community science platforms such as iNaturalist hold promise as a novel approach to tracking biodiversity change with reference to historical baseline data. In this paper, we present evidence for historical change in an island bumble bee community, documenting the probable extirpation of three bumble bee species and a recent colonization event. Results from intensive sampling using blue vane traps and from iNaturalist observations converged on the same estimate of species richness in the present community, which significantly differed from estimates of richness in the historical community. These results demonstrate the potential for community science to aid in the detection of biodiversity change through a comparison of historical collections and crowd-sourced biodiversity data.
+Community science platforms such as iNaturalist hold promise as a novel approach to tracking biodiversity change with reference to historical baseline data. In this paper, we present evidence for historical change in an island bumble bee community, documenting the probable extirpation of three bumble bee species and the recent arrival of a new species. Results from intensive sampling using blue vane traps and from iNaturalist observations converged on the same estimate of species richness in the present community, which significantly differed from estimates of richness in the historical community. These results demonstrate the potential for community science to aid in the detection of biodiversity change through a comparison of historical collections and crowd-sourced biodiversity data.
 
-Published open access in *Northwest Science* (Simon et al. 2023). Image: *Bombus vosnesenskii*, a recent colonist of Galiano Island.
+Published open access in *Northwest Science* (Simon et al. 2023). Image: *Bombus vosnesenskii*, a species that has recently arrived on Galiano Island.
 
 <div style="clear: both;"></div>
 
