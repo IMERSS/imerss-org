@@ -29,11 +29,13 @@ Heidi Guest and Ken Marr | [Royal British Columbia Museum](https://rbcm.ca/)
 
 Linda Jennings | [University of British Columbia Herbarium](https://beatymuseum.ubc.ca/research-2/collections/herbarium/)
 
-[Swan Lake Nature Sanctuary](https://www.swanlake.bc.ca/)
+Cara Gibson | [Swan Lake Nature Sanctuary](https://www.swanlake.bc.ca/)
 
-[Habitat Acquisition Trust](https://hat.bc.ca/)
+Paige Erickson-Mcgee | [Habitat Acquisition Trust](https://hat.bc.ca/)
 
 We thank Robin Bradley, Cindy Gao, Emma Menchions, Benjamin Mumford, and Lindsay Trottier for their contributions to this project as Living Data Project interns supported by the Canadian Institute of Ecology and Evolution. Many thanks to Sandra Emry, Gracielle Higino, David Hunt, Mike Lavender, Pierre Rogy, Diane Srivastava—and the rest of the CIEE team—for their ongoing support of this project.
+
+We also thank Andy MacKinnon, Kristen Miskelly, James Miskelly, Adam Martin, Frank Lomer, and Matt Fairbarns for their contributions to this project.
 
 # Funding
 
