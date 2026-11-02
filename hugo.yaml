@@ -105,6 +105,11 @@ menu:
       url: "https://imerss.github.io/detecting-local-extinction/docs/"
       parent: docs
       weight: 1
+    - identifier: xetthecum-docs
+      name: "Xetthecum: a learning journey"
+      url: "https://imerss.github.io/xetthecum-documentation/docs/"
+      parent: docs
+      weight: 2
     - name: Search
       weight: 8
       params:

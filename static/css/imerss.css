@@ -547,6 +547,26 @@ html.dark .hx-dropdown-menu {
     display: block;
 }
 
+/* Also open on hover (mouse devices), so it is clear the items exist */
+@media (hover: hover) {
+    .hx-dropdown:hover .hx-dropdown-menu {
+        display: block;
+    }
+    .hx-dropdown:hover .hx-dropdown-chevron {
+        transform: rotate(180deg);
+    }
+}
+/* Invisible bridge over the gap above the panel, so the menu stays open
+   while the cursor moves from the label down to the items */
+.hx-dropdown-menu::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: -8px;
+    height: 8px;
+}
+
 /* Individual items */
 .hx-dropdown-item {
     display: block;
