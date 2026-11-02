@@ -34,7 +34,7 @@ date: 2026-03-02
 
 
 ## Eco-cultural Mapping {#ecocultural-mapping}
-We can enrich our understanding of the Salish Sea bioregion by weaving Indigenous and Western scientific place-based knowledge. In this spirit, the eco-cultural mapping pilot project *Xetthecum* integrates biodiversity data with Indigenous knowledge and stories into an interactive map that harnesses design, data visualization and artistic practice to deepen place-based learning. *Xetthecum* is providing a basis for the work of our partners [Whiteswan Environmental](https://www.whiteswanenvironmental.org/) in mapping sites of ancestral significance across the region.
+We can enrich our understanding of the Salish Sea bioregion by weaving Indigenous and Western scientific place-based knowledge. In this spirit, the eco-cultural mapping pilot project *Xetthecum* integrates biodiversity data with Indigenous knowledge and stories into an interactive map that harnesses design, data visualization and artistic practice to deepen place-based learning. *Xetthecum* is providing a basis for the work of our partners [Whiteswan Environmental](https://www.whiteswanenvironmental.org/) in mapping sites of cultural significance across the region.
 
 {{< cards >}}
    {{< card link="/projects/ecocultural-mapping" 
@@ -45,6 +45,10 @@ We can enrich our understanding of the Salish Sea bioregion by weaving Indigenou
     title="Xetthecum Storymap" 
     subtitle="Explore the species and communities of Xetthecum, and the cultural values that weave them all together." 
     image="images/clam_1.4.jpg">}} 
+   {{< card link="https://imerss.github.io/xetthecum-documentation/docs/" 
+    title="Xetthecum: a learning journey" 
+    subtitle="Documentation of the Xetthecum ecocultural mapping pilot, from early research to community engagement." 
+    image="images/retreat_cove_1.4.jpg">}} 
 {{< /cards >}}
 
 

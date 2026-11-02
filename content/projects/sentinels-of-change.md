@@ -1,7 +1,7 @@
 ---
 title: "Sentinels of Change"
 date: '2026-03-02'
-logos: [hakai, pnw-crab]
+logos: [hakai, pnw-crab, galiano-conservancy]
 ---
 
 # Sentinels of Change
@@ -22,4 +22,6 @@ Current status: Ongoing
 [Hakai Institute](https://hakai.org/)
 
 [Pacific Northwest Crab Research Group](https://www.pnwcrab.com/)
+
+[Galiano Conservancy Association](https://galianoconservancy.ca/)
 

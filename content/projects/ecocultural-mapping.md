@@ -30,3 +30,9 @@ Dana Ayotte | [Inclusive Design Research Centre](https://idrc.ocadu.ca/)
 [Vashon Nature Centre](https://vashonnaturecenter.org/)
 
 **We are grateful for funding provided by [Indigenous Watersheds Initiative](https://watershedsbc.ca/indigenous-watersheds-initiative/), the [Inclusive Design Research Centre](https://idrc.ocadu.ca/), the [Southern Gulf Islands Community Resource Centre](https://www.sgicommunityresources.ca/), and the [Capital Regional District](https://www.crd.ca/) in support of this ongoing ecocultural mapping initiative.**
+
+# Resources
+
+[Xetthecum: a learning journey](https://imerss.github.io/xetthecum-documentation/docs/): documentation of the *Xetthecum* ecocultural mapping pilot
+
+[Xetthecum Storymap](https://imerss.github.io/xetthecum-storymap/): explore the species and communities of Xetthecum, and the cultural values that weave them all together
