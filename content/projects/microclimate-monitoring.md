@@ -22,13 +22,13 @@ Andrew Simon, Kevin Toomer | IMERSS Labs
 
 Heather Klassen | [BC Ministry of Forests](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/forests)
 
-Ed Wiebe | [UVic Earth & Ocean Sciences](https://www.uvic.ca/science/seos/index.php)
-
-Dan Moore | [UBC Geography](https://geog.ubc.ca/)
+[Galiano Conservancy Association](https://galianoconservancy.ca/)
 
 [Lyackson First Nation](https://lyackson.bc.ca/)
 
-[Galiano Conservancy Association](https://galianoconservancy.ca/)
+Dan Moore | [UBC Geography](https://geog.ubc.ca/)
+
+Ed Wiebe | [UVic Earth & Ocean Sciences](https://www.uvic.ca/science/seos/index.php)
 
 [Valdes Island Conservancy](https://www.valdesconservancy.org/)
 

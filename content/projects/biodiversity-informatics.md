@@ -20,13 +20,13 @@ Current status: Ongoing
 
 # Partnerships
 
-Antranig Basman, Andrew Simon, Emma Menchions | IMERSS
+Antranig Basman, Emma Menchions, Andrew Simon | IMERSS
 
 Colin Clark | [Inclusive Design Research Centre](https://idrc.ocadu.ca/)
 
 Charlie Gibbs, Donna Gibbs | [Pacific Marine Life Surveys](https://biogaliano.org/pacific-marine-life-survey-team/)
 
-Ben Keen | Open-source Developer, Bowen Island 
+Ben Keen | Open-source Developer, Bowen Island
 
 # Funding
 

@@ -20,15 +20,16 @@ Current status: Ongoing
  
 # Partnerships
 
-Mark Webber, Arjan van Asselt | IMERSS Labs
+Arjan van Asselt, Mark Webber | IMERSS Labs
 
 Elaine Humphrey | Advanced Microscopy Facility (UVic)
 
-Alice Chang | UBC
-
 [Hakai Institute](https://hakai.org/)
 
- 
+Alice Chang | UBC
+
+
+
 # Resources 
 
 Webber et al. (2026) [Diatoms (Bacillariophyta) of the Salish Sea, Northeast Pacific: annotated checklist and new species reports](https://doi.org/10.3897/BDJ.14.e189060). *Biodiversity Data Journal* 14: e189060.

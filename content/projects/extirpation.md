@@ -25,11 +25,11 @@ Current status: Complete
 
 Andrew Simon | IMERSS Labs
 
+Marta Donovan, Jenifer Penny | [BC Conservation Data Centre](https://www2.gov.bc.ca/gov/content/environment/plants-animals-ecosystems/conservation-data-centre)
+
 Quentin Cronk, Linda Jennings | [Beaty Biodiversity Museum](https://beatymuseum.ubc.ca/)
 
 Harvey Janszen, Caitlin Robinson, Alexander Wright
-
-Marta Donovan, Jenifer Penny | [BC Conservation Data Centre](https://www2.gov.bc.ca/gov/content/environment/plants-animals-ecosystems/conservation-data-centre)
 
 # Resources
 

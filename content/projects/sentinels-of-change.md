@@ -19,9 +19,8 @@ Current status: Ongoing
  
 # Partnerships
 
+[Galiano Conservancy Association](https://galianoconservancy.ca/)
+
 [Hakai Institute](https://hakai.org/)
 
 [Pacific Northwest Crab Research Group](https://www.pnwcrab.com/)
-
-[Galiano Conservancy Association](https://galianoconservancy.ca/)
-

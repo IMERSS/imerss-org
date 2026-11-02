@@ -28,9 +28,8 @@ Current status: Complete
 
 Arjan van Asselt, Mark Webber | IMERSS Labs
 
-Emily Adamczyk, Andrea Jackman, Laura Parfrey, Siobhan Schenk | [Parfrey Lab (UBC)](https://www.zoology.ubc.ca/~parfrey/parfrey_lab/research/)
-
 Elaine Humphrey | [Advanced Microscopy Facility (UVic)](https://www.uvic.ca/research/advancedmicroscopy/index.php)
 
+Emily Adamczyk, Andrea Jackman, Laura Parfrey, Siobhan Schenk | [Parfrey Lab (UBC)](https://www.zoology.ubc.ca/~parfrey/parfrey_lab/research/)
 
 Thank you to [Hitachi High-Tech Canada Inc.](https://www.hitachi-hightech.com/ca/) for providing the Hitachi TM4000 Desktop Scanning Electron Microscope (SEM) for exploratory work on this project.

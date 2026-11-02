@@ -21,13 +21,13 @@ Current status: Ongoing
 
 # Partnerships
 
-Jeannine Georgeson, Antranig Basman, Andrew Simon | IMERSS
+Antranig Basman, Jeannine Georgeson, Andrew Simon | IMERSS
 
 Dana Ayotte | [Inclusive Design Research Centre](https://idrc.ocadu.ca/)
 
-[Whiteswan Environmental](https://www.whiteswanenvironmental.org/)
-
 [Vashon Nature Centre](https://vashonnaturecenter.org/)
+
+[Whiteswan Environmental](https://www.whiteswanenvironmental.org/)
 
 We are grateful for funding provided by [Indigenous Watersheds Initiative](https://watershedsbc.ca/indigenous-watersheds-initiative/), the [Inclusive Design Research Centre](https://idrc.ocadu.ca/), the [Southern Gulf Islands Community Resource Centre](https://www.sgicommunityresources.ca/), and the [Capital Regional District](https://www.crd.ca/) in support of this ongoing ecocultural mapping initiative.
 
