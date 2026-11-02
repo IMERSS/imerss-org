@@ -39,4 +39,6 @@ We also thank Matt Fairbarns, Pam Janszen, Frank Lomer, Terry Ludwar, Andy MacKi
 
 # Funding
 
+We gratefully acknowledge the [Canadian Institute of Ecology and Evolution](https://www.ciee-icee.ca/)’s [Living Data Project](https://www.ciee-icee.ca/ldp.html) for supporting the interns who contributed to this project.
+
 We are grateful for funding provided by the [Capital Regional District](https://www.crd.ca/), the [Sitka Foundation](https://sitkafoundation.org/), [Nature Victoria](https://naturevictoria.ca/), and [Keefer Ecological Services Ltd.](https://keefereco.com/) in support of this project.
