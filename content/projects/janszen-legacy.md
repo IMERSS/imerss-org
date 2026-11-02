@@ -1,7 +1,7 @@
 ---
 title: Janszen Legacy Project
 date: '2026-03-05'
-logos: [ciee, rbcm, beaty, sitka, nature-victoria, keefer, crd]
+logos: [ciee, rbcm, beaty, swan-lake, hat, sitka, nature-victoria, keefer, crd]
 ---
 
 # Janszen Legacy Project
@@ -28,6 +28,10 @@ Andrew Simon | IMERSS
 Heidi Guest and Ken Marr | [Royal British Columbia Museum](https://rbcm.ca/)
 
 Linda Jennings | [University of British Columbia Herbarium](https://beatymuseum.ubc.ca/research-2/collections/herbarium/)
+
+[Swan Lake Nature Sanctuary](https://www.swanlake.bc.ca/)
+
+[Habitat Acquisition Trust](https://hat.bc.ca/)
 
 We thank Robin Bradley, Cindy Gao, Emma Menchions, Benjamin Mumford, and Lindsay Trottier for their contributions to this project as Living Data Project interns supported by the Canadian Institute of Ecology and Evolution. Many thanks to Sandra Emry, Gracielle Higino, David Hunt, Mike Lavender, Pierre Rogy, Diane Srivastava—and the rest of the CIEE team—for their ongoing support of this project.
 

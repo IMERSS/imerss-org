@@ -135,3 +135,15 @@ crd:
   logo: images/logos/capital-regional-district.png
   ratio: 2.773
   density: 0.280
+swan-lake:
+  name: Swan Lake Nature Sanctuary
+  url: https://www.swanlake.bc.ca/
+  logo: images/logos/SwanLake.png
+  ratio: 3.253
+  density: 0.280
+hat:
+  name: Habitat Acquisition Trust
+  url: https://hat.bc.ca/
+  logo: images/logos/HAT.png
+  ratio: 3.257
+  density: 0.237
