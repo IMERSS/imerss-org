@@ -33,7 +33,7 @@ Cara Gibson | [Swan Lake Nature Sanctuary](https://www.swanlake.bc.ca/)
 
 Linda Jennings | [University of British Columbia Herbarium](https://beatymuseum.ubc.ca/research-2/collections/herbarium/)
 
-We thank Robin Bradley, Cindy Gao, Emma Menchions, Benjamin Mumford, and Lindsay Trottier for their contributions to this project as Living Data Project interns supported by the Canadian Institute of Ecology and Evolution. Many thanks to Sandra Emry, Gracielle Higino, David Hunt, Mike Lavender, Pierre Rogy, Diane Srivastava—and the rest of the CIEE team—for their ongoing support of this project. We also thank Geraldine Allen, Ian Cruickshank, Peter Dunwiddie, Matt Fairbarns, Frank Lomer, Terry Ludwar, Andy MacKinnon, Adam Martin, James Miskelly, and Kristen Miskelly for their contributions to this project—and honour Pam Janszen, for her contributions and lifelong support of this work.
+We thank Robin Bradley, Cindy Gao, Emma Menchions, Benjamin Mumford, and Lindsay Trottier for their contributions to this project as Living Data Project interns supported by the Canadian Institute of Ecology and Evolution. Many thanks to Sandra Emry, Gracielle Higino, David Hunt, Mike Lavender, Pierre Rogy, Diane Srivastava—and the rest of the CIEE team—for their ongoing support of this project. We also thank Geraldine Allen, Ian Cruickshank, Peter Dunwiddie, Matt Fairbarns, Frank Lomer, Terry Ludwar, Andy MacKinnon, Adam Martin, James Miskelly, Kristen Miskelly, and Hans Roemer for their contributions to this project—and honour Pam Janszen, for her contributions and lifelong support of this work.
 
 # Funding
 
