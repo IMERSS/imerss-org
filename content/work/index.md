@@ -78,7 +78,7 @@ Communities have important roles to play in monitoring biodiversity in local pla
       image="/projects/images/biogaliano_1.4.png">}}
     {{< card link="/projects/extirpation" 
       title="20/20 Vision on Plant Extirpation" 
-      subtitle="An initiative to locate 12 plant species identified as being at risk of extirpation from Galiano Island." 
+      subtitle="An initiative to locate 10 plant species identified as being at risk of extirpation from Galiano Island." 
      image="/projects/images/Hannah_Harvey_orchid_search_3_1.4.jpg">}}
     {{< card link="/projects/operation-galiwatch" 
       title="Operation GaliWatch" 
