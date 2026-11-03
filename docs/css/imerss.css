@@ -725,17 +725,27 @@ html.dark .content .imerss-social-link:focus-visible {
 .imerss-logos-list li {
   margin: 0;
 }
-.imerss-logos-list a {
+.imerss-logos-featured {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto 2.25rem;
+}
+.imerss-logos-list a,
+.imerss-logos-featured a {
   display: block;
   line-height: 0;
   transition: opacity .2s ease;
 }
 .imerss-logos-list a:hover,
-.imerss-logos-list a:focus-visible {
+.imerss-logos-list a:focus-visible,
+.imerss-logos-featured a:hover,
+.imerss-logos-featured a:focus-visible {
   opacity: 0.75;
 }
 .content .imerss-logos-list img,
-.imerss-logos-list img {
+.imerss-logos-list img,
+.content .imerss-logos-featured img,
+.imerss-logos-featured img {
   width: var(--logo-w);
   height: var(--logo-h);
   max-width: none;
@@ -752,7 +762,9 @@ html.dark .imerss-logos {
 @media (max-width: 640px) {
   .imerss-logos-list { gap: 1.5rem 2rem; }
   .content .imerss-logos-list img,
-  .imerss-logos-list img {
+  .imerss-logos-list img,
+  .content .imerss-logos-featured img,
+  .imerss-logos-featured img {
     width: calc(var(--logo-w) * 0.78);
     height: calc(var(--logo-h) * 0.78);
   }
