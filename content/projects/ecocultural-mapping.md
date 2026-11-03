@@ -1,7 +1,8 @@
 ---
 title: Xetthecum Ecocultural Mapping Pilot
 date: '2026-03-05'
-logos: [iwi, idrc, sgi-crc, whiteswan, vashon, crd]
+featuredLogo: whiteswan
+logos: [iwi, idrc, sgi-crc, vashon, crd]
 ---
 
 # *Xetthecum* Ecocultural Mapping Pilot

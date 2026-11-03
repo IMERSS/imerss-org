@@ -1,29 +1,48 @@
-{{/* Funder and partner logos, listed by key in the page's `logos` front matter (see data/logos.yaml) */}}
-{{- with .Params.logos }}
+{{/* Funder and partner logos, listed by key in the page's `logos` front matter (see data/logos.yaml).
+     A page may also name one `featuredLogo` key: that logo is shown first, centred on its own row and larger. */}}
+{{- $featured := .Params.featuredLogo -}}
+{{- if or .Params.logos $featured }}
 <section class="imerss-logos" aria-label="Funders and partners">
+  {{- with $featured }}
+  {{- with index site.Data.logos . }}
+  <div class="imerss-logos-featured">
+    {{- partial "inline/logo-item.html" (dict "logo" . "scale" 3.5) }}
+  </div>
+  {{- end }}
+  {{- end }}
   <ul class="imerss-logos-list">
-    {{- range . }}
+    {{- range .Params.logos }}
+    {{- if ne . $featured }}
     {{- with index site.Data.logos . }}
-    {{- /* Size each logo to a similar visual weight: equal area, nudged down for dense marks and up for light ones */ -}}
-    {{- $ratio := float .ratio | default 2.5 -}}
-    {{- $weight := math.Pow (div 0.3 (float (.density | default 0.3))) 0.2 -}}
-    {{- $h := mul (math.Sqrt (div 8000.0 $ratio)) $weight -}}
-    {{- $h = math.Min $h 76.0 -}}
-    {{- $w := mul $h $ratio -}}
-    {{- if gt $w 200.0 }}{{ $w = 200.0 }}{{ $h = div $w $ratio }}{{ end -}}
     <li>
-      {{- /* Link the logo when the organisation has a url */}}
-      {{- if .url }}
-      <a href="{{ .url }}" target="_blank" rel="noreferrer" title="{{ .name }}">
-      {{- end }}
-        <img src="{{ .logo | relURL }}" alt="{{ .name }}" title="{{ .name }}" loading="lazy"
-             style="--logo-w: {{ math.Round $w }}px; --logo-h: {{ math.Round $h }}px">
-      {{- if .url }}
-      </a>
-      {{- end }}
+      {{- partial "inline/logo-item.html" (dict "logo" . "scale" 1.0) }}
     </li>
+    {{- end }}
     {{- end }}
     {{- end }}
   </ul>
 </section>
+{{- end }}
+
+{{- define "partials/inline/logo-item.html" }}
+{{- with .logo }}
+{{- /* Size each logo to a similar visual weight: equal area, nudged down for dense marks and up for light ones */ -}}
+{{- $scale := float $.scale -}}
+{{- $ratio := float .ratio | default 2.5 -}}
+{{- $weight := math.Pow (div 0.3 (float (.density | default 0.3))) 0.2 -}}
+{{- $h := mul (math.Sqrt (div (mul 8000.0 $scale) $ratio)) $weight -}}
+{{- $h = math.Min $h (mul 76.0 (math.Sqrt $scale)) -}}
+{{- $w := mul $h $ratio -}}
+{{- $maxW := mul 200.0 (math.Sqrt $scale) -}}
+{{- if gt $w $maxW }}{{ $w = $maxW }}{{ $h = div $w $ratio }}{{ end -}}
+{{- /* Link the logo when the organisation has a url */}}
+{{- if .url }}
+<a href="{{ .url }}" target="_blank" rel="noreferrer" title="{{ .name }}">
+{{- end }}
+  <img src="{{ .logo | relURL }}" alt="{{ .name }}" title="{{ .name }}" loading="lazy"
+       style="--logo-w: {{ math.Round $w }}px; --logo-h: {{ math.Round $h }}px">
+{{- if .url }}
+</a>
+{{- end }}
+{{- end }}
 {{- end }}
