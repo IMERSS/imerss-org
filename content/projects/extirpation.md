@@ -23,7 +23,7 @@ Current status: Complete
  
 # Partnerships
 
-Andrew Simon | IMERSS Labs
+Andrew Simon, Antranig Basman | IMERSS Labs
 
 Marta Donovan, Jenifer Penny | [BC Conservation Data Centre](https://www2.gov.bc.ca/gov/content/environment/plants-animals-ecosystems/conservation-data-centre)
 
