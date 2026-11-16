@@ -2,7 +2,8 @@
 # front matter (e.g. `logos: [bc-parks, uvic]`) to show them below
 # Partnerships on that project page. `ratio` (width/height) and `density`
 # (share of the logo that is ink) let each logo be sized to a similar
-# visual weight.
+# visual weight. An optional `size` multiplier enlarges a logo whose
+# small text would otherwise be hard to read.
 iwi:
   name: Indigenous Watersheds Initiative
   url: https://watershedsbc.ca/indigenous-watersheds-initiative/
@@ -30,9 +31,10 @@ bc-parks:
 ciee:
   name: Canadian Institute of Ecology and Evolution
   url: https://www.ciee-icee.ca/
-  logo: images/logos/ciee.png
-  ratio: 4.713
-  density: 0.166
+  logo: images/logos/ciee-icee.png
+  ratio: 6.124
+  density: 0.218
+  size: 1.5
 hitachi:
   name: Hitachi High-Tech Canada
   url: https://www.hitachi-hightech.com/ca/

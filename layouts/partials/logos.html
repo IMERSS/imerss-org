@@ -35,6 +35,9 @@
 {{- $w := mul $h $ratio -}}
 {{- $maxW := mul 200.0 (math.Sqrt $scale) -}}
 {{- if gt $w $maxW }}{{ $w = $maxW }}{{ $h = div $w $ratio }}{{ end -}}
+{{- /* Optional per-logo `size` multiplier, for long thin logos whose small text needs more room */ -}}
+{{- $size := float (.size | default 1.0) -}}
+{{- $w = mul $w $size }}{{ $h = mul $h $size -}}
 {{- /* Link the logo when the organisation has a url */}}
 {{- if .url }}
 <a href="{{ .url }}" target="_blank" rel="noreferrer" title="{{ .name }}">
