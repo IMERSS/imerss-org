@@ -33,8 +33,16 @@ Cara Gibson | [Swan Lake Nature Sanctuary](https://www.swanlake.bc.ca/)
 
 Linda Jennings | [University of British Columbia Herbarium](https://beatymuseum.ubc.ca/research-2/collections/herbarium/)
 
-We thank Robin Bradley, Cindy Gao, Emma Menchions, Benjamin Mumford, and Lindsay Trottier for their contributions to this project as Living Data Project interns supported by the Canadian Institute of Ecology and Evolution—read the stories of their work from [2023](https://www.ciee-icee.ca/ldp-stories/harvey-janszen-legacy-project), [2024](https://www.ciee-icee.ca/ldp-stories/harvey-janszen-legacy-project-part-2) and [2025](https://www.ciee-icee.ca/ldp-stories/vascular-plant-diversity-of-the-southern-gulf-islands-saanich-peninsula-and-san-juans). Many thanks to Sandra Emry, Gracielle Higino, David Hunt, Mike Lavender, Pierre Rogy, Diane Srivastava—and the rest of the CIEE team—for their ongoing support of this project. We also thank Geraldine Allen, Ian Cruickshank, Peter Dunwiddie, Matt Fairbarns, Frank Lomer, Terry Ludwar, Andy MacKinnon, Adam Martin, James Miskelly, Kristen Miskelly, and Hans Roemer for their contributions to this project—and honour Pam Janszen, for her own contributions and lifelong support of this work.
+We thank Robin Bradley, Cindy Gao, Emma Menchions, Benjamin Mumford, and Lindsay Trottier for their contributions to this project as Living Data Project interns supported by the Canadian Institute of Ecology and Evolution. Many thanks to Sandra Emry, Gracielle Higino, David Hunt, Mike Lavender, Pierre Rogy, Diane Srivastava—and the rest of the CIEE team—for their ongoing support of this project. We also thank Geraldine Allen, Ian Cruickshank, Peter Dunwiddie, Matt Fairbarns, Frank Lomer, Terry Ludwar, Andy MacKinnon, Adam Martin, James Miskelly, Kristen Miskelly, and Hans Roemer for their contributions to this project—and honour Pam Janszen, for her own contributions and lifelong support of this work.
 
 # Funding
 
 We gratefully acknowledge the [Canadian Institute of Ecology and Evolution](https://www.ciee-icee.ca/)’s [Living Data Project](https://www.ciee-icee.ca/ldp.html) for supporting the interns who contributed to this project. We are also grateful for funding provided by the [Capital Regional District](https://www.crd.ca/), the [Sitka Foundation](https://sitkafoundation.org/), [Nature Victoria](https://naturevictoria.ca/), and [Keefer Ecological Services Ltd.](https://keefereco.com/) in support of this project.
+
+# Resources
+
+[Harvey Janszen Legacy Project](https://www.ciee-icee.ca/ldp-stories/harvey-janszen-legacy-project): Emma Menchions’s 2023 Living Data Project internship
+
+[Harvey Janszen Legacy Project, Part 2](https://www.ciee-icee.ca/ldp-stories/harvey-janszen-legacy-project-part-2): Benjamin Mumford and Lindsay Trottier’s 2024 Living Data Project internship
+
+[Vascular plant diversity of the southern Gulf Islands, Saanich Peninsula and San Juans](https://www.ciee-icee.ca/ldp-stories/vascular-plant-diversity-of-the-southern-gulf-islands-saanich-peninsula-and-san-juans): Cindy Gao and Robin Bradley’s 2025 Living Data Project internship, transcribing Harvey’s “Flora of Saturna” journal
